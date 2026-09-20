@@ -1,0 +1,38 @@
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+============================================================
+PHYSICAL GPU ASSIGNED: 0
+CUDA_VISIBLE_DEVICES: 0
+Visible CUDA devices: 1
+Visible GPU: Tesla T4
+============================================================
+Worker GPU 0: 433 assigned
+Worker GPU 0: 0 already completed
+MDFS device: cuda
+GPU: Tesla T4
+Loading EfficientNet-B7...
+Loading reference features...
+Reference tensor: (295095, 544)
+Computing reference mean...
+Computing reference covariance...
+MDFS scorer ready.
+[GPU 0] 50/433 bridge.jpeg2000.2.png MDFS=22.304394 0.0488s
+[GPU 0] 100/433 child_swimming.BLUR.5.png MDFS=39.337555 0.0475s
+[GPU 0] 150/433 fisher.JPEG.5.png MDFS=36.662521 0.0446s
+[GPU 0] 200/433 lady_liberty.BLUR.4.png MDFS=42.888119 0.0486s
+[GPU 0] 250/433 native_american.JPEG.4.png MDFS=33.375645 0.0470s
+[GPU 0] 300/433 rushmore.BLUR.2.png MDFS=19.227144 0.0508s
+[GPU 0] 350/433 sunsetcolor.JPEG.1.png MDFS=22.264332 0.0478s
+[GPU 0] 400/433 turtle.fnoise.5.png MDFS=24.531956 0.0498s
+[GPU 0] 433/433 woman.contrast.3.png MDFS=20.261806 0.0493s
+
+============================================================
+GPU 0 WORKER COMPLETE
+============================================================
+Rows: 433
+Unique filenames: 433
+Mean inference time: 0.050084078108562566
+Worker wall time: 21.816960291000214
+All finite: True

@@ -1,0 +1,29 @@
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Device: cuda
+GPU: Tesla T4
+Total DIV500 files found: 500
+Benchmark images: 10
+[01/10] 0809x3.png
+[02/10] 0602x3.png
+[03/10] 0394x3.png
+[04/10] 0506x3.png
+[05/10] 0692x3.png
+[06/10] 0867x3.png
+[07/10] 0738x3.png
+[08/10] 0302x3.png
+[09/10] 0415x3.png
+[10/10] 0519x3.png
+
+==============================
+10-IMAGE BENCHMARK COMPLETE
+==============================
+Elapsed for 10 images: 2.66 seconds
+Mean per image: 0.266 seconds
+Estimated 500-image feature time: 132.77 seconds
+Estimated 500-image feature time: 2.21 minutes
+Output tensor shape: (5727, 544)
+Finite: True
+Temporary benchmark artifact: artifacts/MDFS_weights_10image_benchmark.pth

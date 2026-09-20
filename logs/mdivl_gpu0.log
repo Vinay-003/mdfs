@@ -1,0 +1,37 @@
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+============================================================
+PHYSICAL GPU ASSIGNED: 0
+CUDA_VISIBLE_DEVICES: 0
+Visible CUDA devices: 1
+Visible GPU: Tesla T4
+============================================================
+Worker GPU 0: 375 assigned
+Worker GPU 0: 0 already completed
+MDFS device: cuda
+GPU: Tesla T4
+Loading EfficientNet-B7...
+Loading reference features...
+Reference tensor: (295095, 544)
+Computing reference mean...
+Computing reference covariance...
+MDFS scorer ready.
+[GPU 0] 50/375 candies_blur_3.33_jpg_20.jpg MDFS=30.330563 0.0861s
+[GPU 0] 100/375 home_blur_2.66_jpg_20.jpg MDFS=27.875938 0.0865s
+[GPU 0] 150/375 mountain_blur_2_jpg_20.jpg MDFS=29.079792 0.0881s
+[GPU 0] 200/375 bus_noise_3_jpg_100.jpg MDFS=20.223665 0.0939s
+[GPU 0] 250/375 chianti_noise_10_jpg_100.jpg MDFS=21.799109 0.0956s
+[GPU 0] 300/375 manikin_noise_3_jpg_100.jpg MDFS=23.550953 0.0962s
+[GPU 0] 350/375 mountain_noise_10_jpg_100.jpg MDFS=22.857338 0.0936s
+[GPU 0] 375/375 snow_noise_14_jpg_30.jpg MDFS=26.372873 0.0910s
+
+============================================================
+GPU 0 WORKER COMPLETE
+============================================================
+Rows: 375
+Unique filenames: 375
+Mean inference time: 0.09100707041599765
+Worker wall time: 34.26313020099951
+All finite: True

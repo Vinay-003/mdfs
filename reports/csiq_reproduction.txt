@@ -1,0 +1,44 @@
+
+MDFS CSIQ REPRODUCTION
+======================
+
+Reference:
+Rebuilt from author-provided DIV500 images
+
+Dataset:
+CSIQ
+
+Scored images:
+866
+
+Hardware:
+2 x Tesla T4
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.777400
+Ours:  0.787133
+Diff: +0.009733
+
+KROCC
+Paper: 0.582300
+Ours:  0.593019
+Diff: +0.010719
+
+PLCC
+Paper: 0.790700
+Ours:  0.832932
+Diff: +0.042232
+
+RMSE
+Paper: 0.160700
+Ours:  0.145277
+Diff: -0.015423
+
+Validation:
+Rows: 866
+Unique images: 866
+All scores finite: True
+Dual-GPU evaluation: True

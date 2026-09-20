@@ -1,0 +1,867 @@
+filename,image_path,reference_image,dst_type,dst_idx,dst_level,dmos,dmos_std
+1600.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/1600.AWGN.1.png,1600,noise,1,1,0.061989406314069996,0.06121907310174256
+1600.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/1600.AWGN.2.png,1600,noise,1,2,0.20624450621129087,0.09713219814188723
+1600.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/1600.AWGN.3.png,1600,noise,1,3,0.26212222597897933,0.032590904563056744
+1600.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/1600.AWGN.4.png,1600,noise,1,4,0.374632289596199,0.10689609488975439
+1600.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/1600.AWGN.5.png,1600,noise,1,5,0.467480295574237,0.11965437740210046
+1600.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/1600.JPEG.1.png,1600,jpeg,2,1,0.012873051455637911,0.0035983291262942623
+1600.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/1600.JPEG.2.png,1600,jpeg,2,2,0.06914769767706651,0.06335211995244103
+1600.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/1600.JPEG.3.png,1600,jpeg,2,3,0.19682721171667653,0.08360929976408145
+1600.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/1600.JPEG.4.png,1600,jpeg,2,4,0.5010634792871814,0.08281736099194903
+1600.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/1600.JPEG.5.png,1600,jpeg,2,5,0.6871268405097146,0.0586628643325048
+1600.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.1.png,1600,jpeg 2000,3,1,0.011967497540702548,0.001991188664397426
+1600.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.2.png,1600,jpeg 2000,3,2,0.13531131110125566,0.059261777871817765
+1600.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.3.png,1600,jpeg 2000,3,3,0.3643609853066028,0.06961098137051168
+1600.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.4.png,1600,jpeg 2000,3,4,0.5758434486192733,0.09192586972724465
+1600.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.5.png,1600,jpeg 2000,3,5,0.8269159401906132,0.0
+1600.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/1600.fnoise.1.png,1600,fnoise,4,1,0.052376161472385996,0.041558020623711105
+1600.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/1600.fnoise.2.png,1600,fnoise,4,2,0.2530578728086438,0.05760609334646177
+1600.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/1600.fnoise.3.png,1600,fnoise,4,3,0.37574086581450483,0.021462759917308102
+1600.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/1600.fnoise.4.png,1600,fnoise,4,4,0.4898801584618102,0.11111172226947763
+1600.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/1600.fnoise.5.png,1600,fnoise,4,5,0.5652194084311342,0.115776375800555
+1600.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/1600.BLUR.1.png,1600,blur,5,1,0.042667713199591846,0.05290450073094222
+1600.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/1600.BLUR.2.png,1600,blur,5,2,0.14243468690001163,0.08178703570896607
+1600.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/1600.BLUR.3.png,1600,blur,5,3,0.3411142841589732,0.08234496466646868
+1600.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/1600.BLUR.4.png,1600,blur,5,4,0.4710376993025577,0.11507253614830683
+1600.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/1600.BLUR.5.png,1600,blur,5,5,0.7497945239557293,0.053698138722726066
+1600.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/1600.contrast.1.png,1600,contrast,6,1,0.05618132739786405,0.045859062965437423
+1600.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/1600.contrast.2.png,1600,contrast,6,2,0.20096895638002854,0.08142420670471882
+1600.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/1600.contrast.3.png,1600,contrast,6,3,0.31032464783451436,0.09604806038194713
+1600.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/1600.contrast.4.png,1600,contrast,6,4,0.3705988718089038,0.11543305786845484
+aerial_city.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/aerial_city.AWGN.1.png,aerial_city,noise,1,1,0.03159236885843504,0.013659677437260613
+aerial_city.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/aerial_city.AWGN.2.png,aerial_city,noise,1,2,0.12513507706670254,0.08157557784086092
+aerial_city.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/aerial_city.AWGN.3.png,aerial_city,noise,1,3,0.24495730048273778,0.06425999232006632
+aerial_city.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/aerial_city.AWGN.4.png,aerial_city,noise,1,4,0.372946533696755,0.0541112709522354
+aerial_city.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/aerial_city.AWGN.5.png,aerial_city,noise,1,5,0.5012629851330446,0.04582823436649852
+aerial_city.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/aerial_city.JPEG.1.png,aerial_city,jpeg,2,1,0.030281994802337443,0.014221185393252159
+aerial_city.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/aerial_city.JPEG.2.png,aerial_city,jpeg,2,2,0.06454514640143949,0.04283874599267065
+aerial_city.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/aerial_city.JPEG.3.png,aerial_city,jpeg,2,3,0.388892361778843,0.14604083444431093
+aerial_city.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/aerial_city.JPEG.4.png,aerial_city,jpeg,2,4,0.6072599276997057,0.0559105242303438
+aerial_city.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/aerial_city.JPEG.5.png,aerial_city,jpeg,2,5,0.8190818939743993,0.03879868051772647
+aerial_city.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.1.png,aerial_city,jpeg 2000,3,1,0.027045193152520765,0.009057652479960095
+aerial_city.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.2.png,aerial_city,jpeg 2000,3,2,0.19101425309520748,0.013399815964402371
+aerial_city.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.3.png,aerial_city,jpeg 2000,3,3,0.4855505271803489,0.07852131729808648
+aerial_city.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.4.png,aerial_city,jpeg 2000,3,4,0.7544132534591003,0.12199695536684318
+aerial_city.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.5.png,aerial_city,jpeg 2000,3,5,0.9559081363947638,0.0
+aerial_city.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/aerial_city.fnoise.1.png,aerial_city,fnoise,4,1,0.12564571365956384,0.04103573905309572
+aerial_city.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/aerial_city.fnoise.2.png,aerial_city,fnoise,4,2,0.3187307973483377,0.09714729481007219
+aerial_city.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/aerial_city.fnoise.3.png,aerial_city,fnoise,4,3,0.4752207361922053,0.07758813225798063
+aerial_city.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/aerial_city.fnoise.4.png,aerial_city,fnoise,4,4,0.6006280112891977,0.052087254289419585
+aerial_city.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/aerial_city.fnoise.5.png,aerial_city,fnoise,4,5,0.707734203653038,0.07200015744066887
+aerial_city.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/aerial_city.BLUR.1.png,aerial_city,blur,5,1,0.02498389186121712,0.009745392419187655
+aerial_city.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/aerial_city.BLUR.2.png,aerial_city,blur,5,2,0.11434857120376489,0.08223617417602498
+aerial_city.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/aerial_city.BLUR.3.png,aerial_city,blur,5,3,0.2594208127943026,0.08662057847147288
+aerial_city.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/aerial_city.BLUR.4.png,aerial_city,blur,5,4,0.4639448300386679,0.08045925922477025
+aerial_city.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/aerial_city.BLUR.5.png,aerial_city,blur,5,5,0.8959628575277053,0.07438134680434179
+aerial_city.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/aerial_city.contrast.1.png,aerial_city,contrast,6,1,0.037807031130681894,0.04006961049869119
+aerial_city.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/aerial_city.contrast.2.png,aerial_city,contrast,6,2,0.16308937099203644,0.05828413283327436
+aerial_city.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/aerial_city.contrast.3.png,aerial_city,contrast,6,3,0.36656696111992176,0.049199358180627095
+aerial_city.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/aerial_city.contrast.4.png,aerial_city,contrast,6,4,0.452586929053047,0.05725557892073527
+boston.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/boston.AWGN.1.png,boston,noise,1,1,0.02915926925302274,0.04202878554939485
+boston.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/boston.AWGN.2.png,boston,noise,1,2,0.08136848182589589,0.02157011683855649
+boston.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/boston.AWGN.3.png,boston,noise,1,3,0.21549629862789832,0.046428143595305865
+boston.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/boston.AWGN.4.png,boston,noise,1,4,0.3831161267472243,0.11409671397388019
+boston.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/boston.AWGN.5.png,boston,noise,1,5,0.47159083807579605,0.07605231347419356
+boston.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/boston.JPEG.1.png,boston,jpeg,2,1,0.0,0.0
+boston.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/boston.JPEG.2.png,boston,jpeg,2,2,0.04988351735291519,0.03811210925200989
+boston.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/boston.JPEG.3.png,boston,jpeg,2,3,0.32849150970012314,0.06744267960439983
+boston.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/boston.JPEG.4.png,boston,jpeg,2,4,0.7369370391283737,0.09015489326970615
+boston.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/boston.JPEG.5.png,boston,jpeg,2,5,0.8324809865230994,0.06649586900086456
+boston.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.1.png,boston,jpeg 2000,3,1,0.00029439504243625316,0.0004886778783870719
+boston.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.2.png,boston,jpeg 2000,3,2,0.11813509685450012,0.09539720094249303
+boston.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.3.png,boston,jpeg 2000,3,3,0.38933508120759797,0.12202502022438814
+boston.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.4.png,boston,jpeg 2000,3,4,0.6965625312273085,0.09591691103212581
+boston.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.5.png,boston,jpeg 2000,3,5,0.9043054229788621,0.0033828099206566
+boston.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/boston.fnoise.1.png,boston,fnoise,4,1,0.06765358871515613,0.0488900294160526
+boston.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/boston.fnoise.2.png,boston,fnoise,4,2,0.243426817794292,0.12980373191593508
+boston.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/boston.fnoise.3.png,boston,fnoise,4,3,0.4981289990682256,0.09869901896054542
+boston.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/boston.fnoise.4.png,boston,fnoise,4,4,0.6199626990385528,0.10393665605636157
+boston.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/boston.fnoise.5.png,boston,fnoise,4,5,0.7240842268002151,0.10385831974282589
+boston.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/boston.BLUR.1.png,boston,blur,5,1,0.08345629496855628,0.06007806073346277
+boston.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/boston.BLUR.2.png,boston,blur,5,2,0.2157489707614678,0.10823662968815748
+boston.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/boston.BLUR.3.png,boston,blur,5,3,0.36312032387843046,0.15553713782500306
+boston.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/boston.BLUR.4.png,boston,blur,5,4,0.5712172560289994,0.0752730276134605
+boston.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/boston.BLUR.5.png,boston,blur,5,5,0.9130125203433659,0.022915948169620677
+boston.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/boston.contrast.1.png,boston,contrast,6,1,0.11656840062750139,0.04439972359115667
+boston.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/boston.contrast.2.png,boston,contrast,6,2,0.33915927014058805,0.09625857833691824
+boston.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/boston.contrast.3.png,boston,contrast,6,3,0.6053517102008462,0.03146172499323627
+boston.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/boston.contrast.4.png,boston,contrast,6,4,0.6897294647627122,0.13143590736919294
+bridge.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/bridge.AWGN.1.png,bridge,noise,1,1,0.02778204296498638,0.0067965418075652114
+bridge.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/bridge.AWGN.2.png,bridge,noise,1,2,0.08785664541352196,0.07247027088289393
+bridge.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/bridge.AWGN.3.png,bridge,noise,1,3,0.2517883718075066,0.12708815833065215
+bridge.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/bridge.AWGN.4.png,bridge,noise,1,4,0.40869518832181234,0.11926153184121406
+bridge.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/bridge.AWGN.5.png,bridge,noise,1,5,0.5170088401489368,0.07729766238650881
+bridge.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/bridge.JPEG.1.png,bridge,jpeg,2,1,0.03719346843012015,0.04594080938004181
+bridge.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/bridge.JPEG.2.png,bridge,jpeg,2,2,0.07583667843404555,0.07383304702984457
+bridge.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/bridge.JPEG.3.png,bridge,jpeg,2,3,0.27277434232138525,0.06822291631024816
+bridge.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/bridge.JPEG.4.png,bridge,jpeg,2,4,0.7431163477930863,0.06654321386231406
+bridge.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/bridge.JPEG.5.png,bridge,jpeg,2,5,0.8161642441908669,0.042896822619436545
+bridge.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.1.png,bridge,jpeg 2000,3,1,0.03811812828388272,0.044175645187138964
+bridge.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.2.png,bridge,jpeg 2000,3,2,0.20293495854493,0.06622109168056257
+bridge.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.3.png,bridge,jpeg 2000,3,3,0.4093799838624794,0.09724502248417718
+bridge.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.4.png,bridge,jpeg 2000,3,4,0.6508196264444253,0.08856133598600721
+bridge.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.5.png,bridge,jpeg 2000,3,5,0.8246815569294484,0.034063830261286544
+bridge.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/bridge.fnoise.1.png,bridge,fnoise,4,1,0.050821086555985294,0.036964946202730525
+bridge.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/bridge.fnoise.2.png,bridge,fnoise,4,2,0.2927568043485522,0.39123680000352357
+bridge.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/bridge.fnoise.3.png,bridge,fnoise,4,3,0.4288678518074273,0.1761101671024792
+bridge.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/bridge.fnoise.4.png,bridge,fnoise,4,4,0.5953103434536169,0.0839875942811189
+bridge.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/bridge.fnoise.5.png,bridge,fnoise,4,5,0.6965404539682659,0.056986053663817086
+bridge.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/bridge.BLUR.1.png,bridge,blur,5,1,0.06065100205948597,0.05951378892683827
+bridge.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/bridge.BLUR.2.png,bridge,blur,5,2,0.1824370728384973,0.048260253855615824
+bridge.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/bridge.BLUR.3.png,bridge,blur,5,3,0.3481398683899137,0.06951649557772678
+bridge.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/bridge.BLUR.4.png,bridge,blur,5,4,0.6357910260921681,0.07132558653317851
+bridge.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/bridge.BLUR.5.png,bridge,blur,5,5,0.7771783445182803,0.026601908807140525
+bridge.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/bridge.contrast.1.png,bridge,contrast,6,1,0.03640707839805553,0.010502671419301219
+bridge.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/bridge.contrast.2.png,bridge,contrast,6,2,0.13947145170932881,0.046564878201676374
+bridge.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/bridge.contrast.3.png,bridge,contrast,6,3,0.34489177345472927,0.06455920398009446
+bridge.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/bridge.contrast.4.png,bridge,contrast,6,4,0.457521932555123,0.03740934489174585
+butter_flower.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/butter_flower.AWGN.1.png,butter_flower,noise,1,1,0.02657407351099919,0.00724701449091933
+butter_flower.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/butter_flower.AWGN.2.png,butter_flower,noise,1,2,0.0891654398483989,0.07298680592469414
+butter_flower.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/butter_flower.AWGN.3.png,butter_flower,noise,1,3,0.25229865715426225,0.1634071429164346
+butter_flower.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/butter_flower.AWGN.4.png,butter_flower,noise,1,4,0.43489217886512804,0.21956867037494118
+butter_flower.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/butter_flower.AWGN.5.png,butter_flower,noise,1,5,0.5452710353932667,0.15036868347083684
+butter_flower.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/butter_flower.JPEG.1.png,butter_flower,jpeg,2,1,0.023258951608744402,0.006392956918746664
+butter_flower.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/butter_flower.JPEG.2.png,butter_flower,jpeg,2,2,0.030891218420264183,0.013663452746278414
+butter_flower.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/butter_flower.JPEG.3.png,butter_flower,jpeg,2,3,0.4099163479048657,0.11573207009918386
+butter_flower.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/butter_flower.JPEG.4.png,butter_flower,jpeg,2,4,0.6994126506447775,0.13432831795322833
+butter_flower.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/butter_flower.JPEG.5.png,butter_flower,jpeg,2,5,0.8080892350036207,0.07063101757849431
+butter_flower.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.1.png,butter_flower,jpeg 2000,3,1,0.027567214967198387,0.010078800333742866
+butter_flower.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.2.png,butter_flower,jpeg 2000,3,2,0.1431605410060739,0.0800408127971558
+butter_flower.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.3.png,butter_flower,jpeg 2000,3,3,0.4599420699085164,0.13917539540991328
+butter_flower.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.4.png,butter_flower,jpeg 2000,3,4,0.7792207487608241,0.10530817053293544
+butter_flower.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.5.png,butter_flower,jpeg 2000,3,5,0.9256904485552264,0.004767063760467251
+butter_flower.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/butter_flower.fnoise.1.png,butter_flower,fnoise,4,1,0.027877091254073016,0.00976575803694763
+butter_flower.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/butter_flower.fnoise.2.png,butter_flower,fnoise,4,2,0.19511966821076102,0.10709323180802928
+butter_flower.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/butter_flower.fnoise.3.png,butter_flower,fnoise,4,3,0.38151607779422325,0.146012934968937
+butter_flower.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/butter_flower.fnoise.4.png,butter_flower,fnoise,4,4,0.549040104726563,0.03404727853756029
+butter_flower.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/butter_flower.fnoise.5.png,butter_flower,fnoise,4,5,0.7266031465114576,0.061376559103569754
+butter_flower.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/butter_flower.BLUR.1.png,butter_flower,blur,5,1,0.0780722416914223,0.06526588943316042
+butter_flower.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/butter_flower.BLUR.2.png,butter_flower,blur,5,2,0.20196824319233492,0.10990874187284189
+butter_flower.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/butter_flower.BLUR.3.png,butter_flower,blur,5,3,0.48198049538287957,0.14225150145092286
+butter_flower.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/butter_flower.BLUR.4.png,butter_flower,blur,5,4,0.7785399992932435,0.09059507379947093
+butter_flower.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/butter_flower.BLUR.5.png,butter_flower,blur,5,5,0.9527750535381632,0.012111610455313209
+butter_flower.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/butter_flower.contrast.1.png,butter_flower,contrast,6,1,0.06983133187054241,0.0734539635817059
+butter_flower.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/butter_flower.contrast.2.png,butter_flower,contrast,6,2,0.256400481779453,0.0426626141231742
+butter_flower.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/butter_flower.contrast.3.png,butter_flower,contrast,6,3,0.5147021852401026,0.11782152610723123
+butter_flower.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/butter_flower.contrast.4.png,butter_flower,contrast,6,4,0.6148866679764512,0.15732930858308916
+cactus.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/cactus.AWGN.1.png,cactus,noise,1,1,0.10432875320689552,0.05508817144565335
+cactus.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/cactus.AWGN.2.png,cactus,noise,1,2,0.20570776394415394,0.11441345815182767
+cactus.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/cactus.AWGN.3.png,cactus,noise,1,3,0.3494384613127356,0.125538308331353
+cactus.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/cactus.AWGN.4.png,cactus,noise,1,4,0.4391671638181894,0.13285531693178096
+cactus.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/cactus.AWGN.5.png,cactus,noise,1,5,0.49839145979479615,0.13350654333897044
+cactus.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/cactus.JPEG.1.png,cactus,jpeg,2,1,0.040968657129266846,0.0418613303772984
+cactus.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/cactus.JPEG.2.png,cactus,jpeg,2,2,0.16046393751382695,0.08065413036029245
+cactus.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/cactus.JPEG.3.png,cactus,jpeg,2,3,0.378420892154994,0.13525949908088014
+cactus.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/cactus.JPEG.4.png,cactus,jpeg,2,4,0.7041424572935658,0.08038337380837138
+cactus.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/cactus.JPEG.5.png,cactus,jpeg,2,5,0.8117226067190877,0.009531146701845147
+cactus.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.1.png,cactus,jpeg 2000,3,1,0.07855702976131719,0.08731298370399318
+cactus.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.2.png,cactus,jpeg 2000,3,2,0.20903885541722805,0.1201292446660032
+cactus.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.3.png,cactus,jpeg 2000,3,3,0.4054628935284878,0.13777988848868125
+cactus.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.4.png,cactus,jpeg 2000,3,4,0.638977192799069,0.08772017771902064
+cactus.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.5.png,cactus,jpeg 2000,3,5,0.7852500362794443,0.0
+cactus.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/cactus.fnoise.1.png,cactus,fnoise,4,1,0.2220833193356789,0.1406197035118941
+cactus.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/cactus.fnoise.2.png,cactus,fnoise,4,2,0.32532199537029344,0.053050647008788955
+cactus.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/cactus.fnoise.3.png,cactus,fnoise,4,3,0.503034866475788,0.17338732149922295
+cactus.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/cactus.fnoise.4.png,cactus,fnoise,4,4,0.5947508475622322,0.11501351263946942
+cactus.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/cactus.fnoise.5.png,cactus,fnoise,4,5,0.6666077889549766,0.028581278984317955
+cactus.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/cactus.BLUR.1.png,cactus,blur,5,1,0.06674341318446185,0.08032899786034338
+cactus.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/cactus.BLUR.2.png,cactus,blur,5,2,0.1471988594055405,0.09096584707873084
+cactus.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/cactus.BLUR.3.png,cactus,blur,5,3,0.3992754674378941,0.2193777020425985
+cactus.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/cactus.BLUR.4.png,cactus,blur,5,4,0.50840987358733,0.14686556458507644
+cactus.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/cactus.BLUR.5.png,cactus,blur,5,5,0.7499961260596266,0.04430174625212792
+cactus.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/cactus.contrast.1.png,cactus,contrast,6,1,0.11125491799556221,0.11865660014361774
+cactus.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/cactus.contrast.2.png,cactus,contrast,6,2,0.2851569576963009,0.23877237357874972
+cactus.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/cactus.contrast.3.png,cactus,contrast,6,3,0.4077264540756716,0.19789283379201283
+cactus.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/cactus.contrast.4.png,cactus,contrast,6,4,0.5167338227300811,0.1987127795963953
+child_swimming.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/child_swimming.AWGN.1.png,child_swimming,noise,1,1,0.028456673322959238,0.0
+child_swimming.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/child_swimming.AWGN.2.png,child_swimming,noise,1,2,0.12020694051476362,0.06476986081574013
+child_swimming.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/child_swimming.AWGN.3.png,child_swimming,noise,1,3,0.27160018783132056,0.09279528560053041
+child_swimming.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/child_swimming.AWGN.4.png,child_swimming,noise,1,4,0.41268736306122644,0.12053776900188821
+child_swimming.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/child_swimming.AWGN.5.png,child_swimming,noise,1,5,0.4885606269012371,0.11079100496743122
+child_swimming.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/child_swimming.JPEG.1.png,child_swimming,jpeg,2,1,0.028859665112842204,0.001028852705908123
+child_swimming.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/child_swimming.JPEG.2.png,child_swimming,jpeg,2,2,0.02986842539427329,0.0029985684670655885
+child_swimming.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/child_swimming.JPEG.3.png,child_swimming,jpeg,2,3,0.2355304959560976,0.149270620964057
+child_swimming.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/child_swimming.JPEG.4.png,child_swimming,jpeg,2,4,0.5144537397471544,0.07794670273675522
+child_swimming.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/child_swimming.JPEG.5.png,child_swimming,jpeg,2,5,0.6957297966115814,0.05297413615118648
+child_swimming.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.1.png,child_swimming,jpeg 2000,3,1,0.028659450024624267,0.000526691777919297
+child_swimming.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.2.png,child_swimming,jpeg 2000,3,2,0.04294019222421595,0.06506162105942757
+child_swimming.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.3.png,child_swimming,jpeg 2000,3,3,0.3226003951670648,0.06618865990970524
+child_swimming.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.4.png,child_swimming,jpeg 2000,3,4,0.5466219215759724,0.059412386846490375
+child_swimming.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.5.png,child_swimming,jpeg 2000,3,5,0.7658753367351655,0.0005266917779192653
+child_swimming.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/child_swimming.fnoise.1.png,child_swimming,fnoise,4,1,0.0317252715018292,0.008275813940689944
+child_swimming.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/child_swimming.fnoise.2.png,child_swimming,fnoise,4,2,0.2261161242169192,0.13605992582804347
+child_swimming.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/child_swimming.fnoise.3.png,child_swimming,fnoise,4,3,0.3755264263476663,0.1539844738709432
+child_swimming.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/child_swimming.fnoise.4.png,child_swimming,fnoise,4,4,0.570449297255263,0.06858886356412566
+child_swimming.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/child_swimming.fnoise.5.png,child_swimming,fnoise,4,5,0.6991148569270473,0.07609845703228442
+child_swimming.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/child_swimming.BLUR.1.png,child_swimming,blur,5,1,0.0317252715018292,0.008275813940689944
+child_swimming.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/child_swimming.BLUR.2.png,child_swimming,blur,5,2,0.18715564816842864,0.11396089357978752
+child_swimming.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/child_swimming.BLUR.3.png,child_swimming,blur,5,3,0.2900159824276977,0.14322847117032594
+child_swimming.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/child_swimming.BLUR.4.png,child_swimming,blur,5,4,0.4849812425494479,0.12788153514770553
+child_swimming.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/child_swimming.BLUR.5.png,child_swimming,blur,5,5,0.758275259483234,0.007783616468939039
+child_swimming.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/child_swimming.contrast.1.png,child_swimming,contrast,6,1,0.14330813408892995,0.113611120607468
+child_swimming.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/child_swimming.contrast.2.png,child_swimming,contrast,6,2,0.289023048517029,0.09043463250282062
+child_swimming.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/child_swimming.contrast.3.png,child_swimming,contrast,6,3,0.5535826133447691,0.049605694263064215
+child_swimming.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/child_swimming.contrast.4.png,child_swimming,contrast,6,4,0.5651178941895693,0.14955518384747699
+couple.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/couple.AWGN.1.png,couple,noise,1,1,0.005538606641200026,0.004151727130942101
+couple.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/couple.AWGN.2.png,couple,noise,1,2,0.10902933591604864,0.05765964339862242
+couple.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/couple.AWGN.3.png,couple,noise,1,3,0.2043564120590507,0.0599930559579231
+couple.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/couple.AWGN.4.png,couple,noise,1,4,0.32523133577521446,0.041293615675356256
+couple.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/couple.AWGN.5.png,couple,noise,1,5,0.46960751314474014,0.049162528334277346
+couple.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/couple.JPEG.1.png,couple,jpeg,2,1,0.0021535744157853923,0.0
+couple.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/couple.JPEG.2.png,couple,jpeg,2,2,0.033951155154010905,0.0358653804286651
+couple.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/couple.JPEG.3.png,couple,jpeg,2,3,0.25808825390384205,0.048476666070228894
+couple.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/couple.JPEG.4.png,couple,jpeg,2,4,0.5860399629109277,0.045377591767982374
+couple.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/couple.JPEG.5.png,couple,jpeg,2,5,0.7236602583259627,0.05305246869816805
+couple.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.1.png,couple,jpeg 2000,3,1,0.0021407022392819783,0.0
+couple.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.2.png,couple,jpeg 2000,3,2,0.0725197717183537,0.061432237866350554
+couple.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.3.png,couple,jpeg 2000,3,3,0.38588509441219476,0.08162653140025354
+couple.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.4.png,couple,jpeg 2000,3,4,0.6306200846189579,0.04834260632329175
+couple.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.5.png,couple,jpeg 2000,3,5,0.8048543740374666,0.0033231617161717203
+couple.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/couple.fnoise.1.png,couple,fnoise,4,1,0.0115359070349252,0.019638506035592404
+couple.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/couple.fnoise.2.png,couple,fnoise,4,2,0.08882431730722477,0.040684878163840366
+couple.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/couple.fnoise.3.png,couple,fnoise,4,3,0.264691120155538,0.059193129292599074
+couple.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/couple.fnoise.4.png,couple,fnoise,4,4,0.46704883793672863,0.08048605037676351
+couple.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/couple.fnoise.5.png,couple,fnoise,4,5,0.6387985365333697,0.1218796526057185
+couple.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/couple.BLUR.1.png,couple,blur,5,1,0.04704606765792968,0.05606741611820624
+couple.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/couple.BLUR.2.png,couple,blur,5,2,0.24907224667020708,0.07918243012724747
+couple.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/couple.BLUR.3.png,couple,blur,5,3,0.4080998183148092,0.07295486755143299
+couple.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/couple.BLUR.4.png,couple,blur,5,4,0.5887766833881293,0.010751057163392263
+couple.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/couple.BLUR.5.png,couple,blur,5,5,0.7853779236845483,0.0179805021133993
+couple.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/couple.contrast.1.png,couple,contrast,6,1,0.09726824932408588,0.04475349369530417
+couple.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/couple.contrast.2.png,couple,contrast,6,2,0.20981936371317236,0.025649835133078263
+couple.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/couple.contrast.3.png,couple,contrast,6,3,0.35245776722163386,0.07975775658774523
+couple.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/couple.contrast.4.png,couple,contrast,6,4,0.4167574004423241,0.10827961626255332
+elk.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/elk.AWGN.1.png,elk,noise,1,1,0.0333195847909936,0.040649601085366346
+elk.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/elk.AWGN.2.png,elk,noise,1,2,0.06523575144296163,0.018644196887021704
+elk.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/elk.AWGN.3.png,elk,noise,1,3,0.17190265330697818,0.10001389142902337
+elk.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/elk.AWGN.4.png,elk,noise,1,4,0.23653886327167745,0.12978593652889517
+elk.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/elk.AWGN.5.png,elk,noise,1,5,0.3579407884959477,0.10844078395503552
+elk.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/elk.JPEG.1.png,elk,jpeg,2,1,0.03237053902068448,0.04233631470042175
+elk.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/elk.JPEG.2.png,elk,jpeg,2,2,0.06819983689297263,0.08391204005054566
+elk.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/elk.JPEG.3.png,elk,jpeg,2,3,0.21995926218452982,0.057240338113426825
+elk.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/elk.JPEG.4.png,elk,jpeg,2,4,0.5496716837732172,0.11572149392985559
+elk.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/elk.JPEG.5.png,elk,jpeg,2,5,0.7102203909627421,0.039357073756676464
+elk.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.1.png,elk,jpeg 2000,3,1,0.02694259242784882,0.043367732713278796
+elk.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.2.png,elk,jpeg 2000,3,2,0.07437999753148612,0.022664947441502745
+elk.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.3.png,elk,jpeg 2000,3,3,0.24508932299613656,0.03597288346234445
+elk.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.4.png,elk,jpeg 2000,3,4,0.5457940910638579,0.09998296945646677
+elk.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.5.png,elk,jpeg 2000,3,5,0.8105725789687916,0.0
+elk.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/elk.fnoise.1.png,elk,fnoise,4,1,0.04647062537025962,0.038245490593990364
+elk.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/elk.fnoise.2.png,elk,fnoise,4,2,0.24667830303663935,0.14034404492962493
+elk.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/elk.fnoise.3.png,elk,fnoise,4,3,0.37089352436727646,0.020440110039920495
+elk.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/elk.fnoise.4.png,elk,fnoise,4,4,0.48385190890820584,0.08795596054380105
+elk.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/elk.fnoise.5.png,elk,fnoise,4,5,0.6449477560576297,0.07862326922904578
+elk.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/elk.BLUR.1.png,elk,blur,5,1,0.04425475244770943,0.04356075020520018
+elk.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/elk.BLUR.2.png,elk,blur,5,2,0.12162618841504125,0.07239120677400673
+elk.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/elk.BLUR.3.png,elk,blur,5,3,0.24708723664714194,0.07796415622490122
+elk.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/elk.BLUR.4.png,elk,blur,5,4,0.404820796364656,0.07735993951360787
+elk.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/elk.BLUR.5.png,elk,blur,5,5,0.7628719627380469,0.041386263226551596
+elk.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/elk.contrast.1.png,elk,contrast,6,1,0.07554225228787313,0.039901778699799835
+elk.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/elk.contrast.2.png,elk,contrast,6,2,0.200368815079446,0.07308659264807438
+elk.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/elk.contrast.3.png,elk,contrast,6,3,0.3991100981882362,0.12683699189741257
+family.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/family.AWGN.1.png,family,noise,1,1,0.08779190298836517,0.058497786959391396
+family.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/family.AWGN.2.png,family,noise,1,2,0.149678742425634,0.08505363872127232
+family.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/family.AWGN.3.png,family,noise,1,3,0.27474224874573944,0.06597607825246271
+family.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/family.AWGN.4.png,family,noise,1,4,0.3753455539208551,0.07332020562978855
+family.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/family.AWGN.5.png,family,noise,1,5,0.4795893142254121,0.08657873752256931
+family.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/family.JPEG.1.png,family,jpeg,2,1,0.02200478767286745,0.02277110881595174
+family.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/family.JPEG.2.png,family,jpeg,2,2,0.13420229181748758,0.058937150206691546
+family.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/family.JPEG.3.png,family,jpeg,2,3,0.6467256771618242,0.10175676733191476
+family.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/family.JPEG.4.png,family,jpeg,2,4,0.761770793550243,0.04493516145451852
+family.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/family.JPEG.5.png,family,jpeg,2,5,0.8462638682915145,0.05940294169943034
+family.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/family.jpeg2000.1.png,family,jpeg 2000,3,1,0.044337131508498,0.047250501037933816
+family.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/family.jpeg2000.2.png,family,jpeg 2000,3,2,0.2375376559321108,0.06405023052585358
+family.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/family.jpeg2000.3.png,family,jpeg 2000,3,3,0.5587130115375861,0.019175518786378482
+family.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/family.jpeg2000.4.png,family,jpeg 2000,3,4,0.7619545625997037,0.07523496247515128
+family.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/family.jpeg2000.5.png,family,jpeg 2000,3,5,0.9771225055861504,0.0
+family.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/family.fnoise.1.png,family,fnoise,4,1,0.16983289095736837,0.060841747284439716
+family.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/family.fnoise.2.png,family,fnoise,4,2,0.27189185831499335,0.018008919190465326
+family.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/family.fnoise.3.png,family,fnoise,4,3,0.4479866938428362,0.11174934375487851
+family.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/family.fnoise.4.png,family,fnoise,4,4,0.5686431487411163,0.13899197289238518
+family.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/family.fnoise.5.png,family,fnoise,4,5,0.6806356264250728,0.14462875738571626
+family.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/family.BLUR.1.png,family,blur,5,1,0.03696687319968819,0.017015357017521965
+family.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/family.BLUR.2.png,family,blur,5,2,0.14934338961738616,0.07765560419999765
+family.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/family.BLUR.3.png,family,blur,5,3,0.2622402578904462,0.06306553125679634
+family.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/family.BLUR.4.png,family,blur,5,4,0.5383654566708077,0.15798971333358258
+family.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/family.BLUR.5.png,family,blur,5,5,0.8562562552214098,0.102503834021364
+family.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/family.contrast.1.png,family,contrast,6,1,0.026857735533239408,0.014713646881016552
+family.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/family.contrast.2.png,family,contrast,6,2,0.1447757551003931,0.06836931132293086
+family.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/family.contrast.3.png,family,contrast,6,3,0.2795226964810415,0.0513509258568338
+family.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/family.contrast.4.png,family,contrast,6,4,0.3785073937305232,0.1039750678592854
+fisher.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/fisher.AWGN.1.png,fisher,noise,1,1,0.0523535406880391,0.040402455333055795
+fisher.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/fisher.AWGN.2.png,fisher,noise,1,2,0.13021872530800047,0.09056751281891676
+fisher.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/fisher.AWGN.3.png,fisher,noise,1,3,0.2164695178364345,0.10488710337262369
+fisher.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/fisher.AWGN.4.png,fisher,noise,1,4,0.31214264994817464,0.1373277287460792
+fisher.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/fisher.AWGN.5.png,fisher,noise,1,5,0.4403152969323436,0.20932148751926208
+fisher.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/fisher.JPEG.1.png,fisher,jpeg,2,1,0.008108853922375557,0.012486974387107655
+fisher.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/fisher.JPEG.2.png,fisher,jpeg,2,2,0.18048859263393524,0.04553123045128626
+fisher.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/fisher.JPEG.3.png,fisher,jpeg,2,3,0.5178478492763323,0.18755462521058958
+fisher.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/fisher.JPEG.4.png,fisher,jpeg,2,4,0.724554720382649,0.12653306337921674
+fisher.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/fisher.JPEG.5.png,fisher,jpeg,2,5,0.7906815447755726,0.12358602361667041
+fisher.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.1.png,fisher,jpeg 2000,3,1,0.008125123721821701,0.013266987813372383
+fisher.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.2.png,fisher,jpeg 2000,3,2,0.1763187172078519,0.012909433405114095
+fisher.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.3.png,fisher,jpeg 2000,3,3,0.5179535030020792,0.06407184689511465
+fisher.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.4.png,fisher,jpeg 2000,3,4,0.8084287570154411,0.06663319492866662
+fisher.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.5.png,fisher,jpeg 2000,3,5,0.9720800409822875,0.0
+fisher.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/fisher.fnoise.1.png,fisher,fnoise,4,1,0.06605952846807188,0.023520652711086238
+fisher.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/fisher.fnoise.2.png,fisher,fnoise,4,2,0.270288031489073,0.1749441355844176
+fisher.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/fisher.fnoise.3.png,fisher,fnoise,4,3,0.40280222439878366,0.18168263992920275
+fisher.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/fisher.fnoise.4.png,fisher,fnoise,4,4,0.4873715042317835,0.2047830548337366
+fisher.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/fisher.fnoise.5.png,fisher,fnoise,4,5,0.6065226274587954,0.1907396025978058
+fisher.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/fisher.BLUR.1.png,fisher,blur,5,1,0.055759427682420856,0.05125793742496269
+fisher.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/fisher.BLUR.2.png,fisher,blur,5,2,0.3611510740914827,0.16343881575940178
+fisher.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/fisher.BLUR.3.png,fisher,blur,5,3,0.5832469974012677,0.17229073718217303
+fisher.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/fisher.BLUR.4.png,fisher,blur,5,4,0.8004418574798029,0.08737743376425465
+fisher.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/fisher.BLUR.5.png,fisher,blur,5,5,0.9127430689999732,0.06035105423586631
+fisher.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/fisher.contrast.1.png,fisher,contrast,6,1,0.09043679617328836,0.053324793006804865
+fisher.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/fisher.contrast.2.png,fisher,contrast,6,2,0.2123847921630622,0.12957619710146942
+fisher.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/fisher.contrast.3.png,fisher,contrast,6,3,0.34155551194714046,0.18221921243574524
+fisher.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/fisher.contrast.4.png,fisher,contrast,6,4,0.3894132822473956,0.21035047079989205
+foxy.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/foxy.AWGN.1.png,foxy,noise,1,1,0.013529024315316605,0.02050103994458161
+foxy.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/foxy.AWGN.2.png,foxy,noise,1,2,0.06361692734473007,0.056725388813867544
+foxy.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/foxy.AWGN.3.png,foxy,noise,1,3,0.13646912702195477,0.10373210923003491
+foxy.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/foxy.AWGN.4.png,foxy,noise,1,4,0.2504460774552425,0.1399757653906315
+foxy.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/foxy.AWGN.5.png,foxy,noise,1,5,0.3811629091102208,0.1382095705895491
+foxy.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/foxy.JPEG.1.png,foxy,jpeg,2,1,0.016043839221016605,0.0009880828236290516
+foxy.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/foxy.JPEG.2.png,foxy,jpeg,2,2,0.07493853411598043,0.0848979217909585
+foxy.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/foxy.JPEG.3.png,foxy,jpeg,2,3,0.1541617057775429,0.1540213281529353
+foxy.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/foxy.JPEG.4.png,foxy,jpeg,2,4,0.3220365951811452,0.153719101389102
+foxy.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/foxy.JPEG.5.png,foxy,jpeg,2,5,0.5510653434035534,0.05137011555935602
+foxy.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.1.png,foxy,jpeg 2000,3,1,0.015410763176707577,0.0
+foxy.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.2.png,foxy,jpeg 2000,3,2,0.05629780521799061,0.052718098871035374
+foxy.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.3.png,foxy,jpeg 2000,3,3,0.17876166899906218,0.04023055768111704
+foxy.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.4.png,foxy,jpeg 2000,3,4,0.3792025927040701,0.09254057717510558
+foxy.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.5.png,foxy,jpeg 2000,3,5,0.6090299196336435,0.0
+foxy.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/foxy.fnoise.1.png,foxy,fnoise,4,1,0.022737985130987372,0.03301364668639519
+foxy.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/foxy.fnoise.2.png,foxy,fnoise,4,2,0.09216691418397638,0.08065771236916486
+foxy.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/foxy.fnoise.3.png,foxy,fnoise,4,3,0.3327092207066686,0.12510965951174827
+foxy.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/foxy.fnoise.4.png,foxy,fnoise,4,4,0.40097825214452504,0.14730837277468414
+foxy.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/foxy.fnoise.5.png,foxy,fnoise,4,5,0.5758554035881543,0.008348128767797343
+foxy.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/foxy.BLUR.1.png,foxy,blur,5,1,0.015861958163784558,0.001039552989996746
+foxy.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/foxy.BLUR.2.png,foxy,blur,5,2,0.10980003017875108,0.10379861239341168
+foxy.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/foxy.BLUR.3.png,foxy,blur,5,3,0.1798009794100957,0.12442920142080552
+foxy.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/foxy.BLUR.4.png,foxy,blur,5,4,0.2903201364342214,0.14667871837343605
+foxy.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/foxy.BLUR.5.png,foxy,blur,5,5,0.44184031675101343,0.11331971292017884
+foxy.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/foxy.contrast.1.png,foxy,contrast,6,1,0.04676679962074633,0.03366165375542785
+foxy.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/foxy.contrast.2.png,foxy,contrast,6,2,0.18325049508647487,0.051528577675179044
+foxy.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/foxy.contrast.3.png,foxy,contrast,6,3,0.35607679838777495,0.11512498836865048
+foxy.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/foxy.contrast.4.png,foxy,contrast,6,4,0.46992527922509664,0.15603407640651218
+geckos.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/geckos.AWGN.1.png,geckos,noise,1,1,0.028506453031450003,0.01535427537404366
+geckos.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/geckos.AWGN.2.png,geckos,noise,1,2,0.060272303384146776,0.04103634892873137
+geckos.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/geckos.AWGN.3.png,geckos,noise,1,3,0.11669462705680334,0.05715603543883401
+geckos.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/geckos.AWGN.4.png,geckos,noise,1,4,0.20185921789938194,0.052705196228502144
+geckos.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/geckos.AWGN.5.png,geckos,noise,1,5,0.3361859735416557,0.12001356794447263
+geckos.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/geckos.JPEG.1.png,geckos,jpeg,2,1,0.02199523811844518,0.0
+geckos.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/geckos.JPEG.2.png,geckos,jpeg,2,2,0.046741049591801274,0.085060126848441
+geckos.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/geckos.JPEG.3.png,geckos,jpeg,2,3,0.1347746312457038,0.16331619708679587
+geckos.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/geckos.JPEG.4.png,geckos,jpeg,2,4,0.46254602830915675,0.07049448257813952
+geckos.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/geckos.JPEG.5.png,geckos,jpeg,2,5,0.7343663274248294,0.0
+geckos.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.1.png,geckos,jpeg 2000,3,1,0.022350232198090354,0.0005488682011768056
+geckos.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.2.png,geckos,jpeg 2000,3,2,0.04418921139465492,0.0728202063639945
+geckos.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.3.png,geckos,jpeg 2000,3,3,0.17047949460681552,0.08952992546631865
+geckos.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.4.png,geckos,jpeg 2000,3,4,0.37739081496845567,0.06492345429422972
+geckos.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.5.png,geckos,jpeg 2000,3,5,0.6171026802304875,0.06301849566230937
+geckos.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/geckos.fnoise.1.png,geckos,fnoise,4,1,0.004040562577066166,0.006040224460696644
+geckos.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/geckos.fnoise.2.png,geckos,fnoise,4,2,0.19014872953165,0.11496284543218172
+geckos.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/geckos.fnoise.3.png,geckos,fnoise,4,3,0.3375129565917832,0.13847310931679652
+geckos.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/geckos.fnoise.4.png,geckos,fnoise,4,4,0.4514143325901956,0.1291625863394225
+geckos.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/geckos.fnoise.5.png,geckos,fnoise,4,5,0.6098175116247088,0.09480426502971917
+geckos.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/geckos.BLUR.1.png,geckos,blur,5,1,0.0125227979269504,0.02228106323883061
+geckos.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/geckos.BLUR.2.png,geckos,blur,5,2,0.06762788165607259,0.03574625517441946
+geckos.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/geckos.BLUR.3.png,geckos,blur,5,3,0.23096193046682287,0.09990296097728077
+geckos.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/geckos.BLUR.4.png,geckos,blur,5,4,0.3408581509816717,0.1372913436108855
+geckos.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/geckos.BLUR.5.png,geckos,blur,5,5,0.5697377920473893,0.12653035577718635
+geckos.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/geckos.contrast.1.png,geckos,contrast,6,1,0.10539768448340976,0.07689900278522958
+geckos.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/geckos.contrast.2.png,geckos,contrast,6,2,0.23884004434634948,0.12298666517237193
+geckos.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/geckos.contrast.3.png,geckos,contrast,6,3,0.45238272466463364,0.1036496411840383
+lady_liberty.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lady_liberty.AWGN.1.png,lady_liberty,noise,1,1,0.03247621001366284,0.04095741967893978
+lady_liberty.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lady_liberty.AWGN.2.png,lady_liberty,noise,1,2,0.1510552528157755,0.07588785454126194
+lady_liberty.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lady_liberty.AWGN.3.png,lady_liberty,noise,1,3,0.25461247705865847,0.08735846208958478
+lady_liberty.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lady_liberty.AWGN.4.png,lady_liberty,noise,1,4,0.38416933105354645,0.17338812066998727
+lady_liberty.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lady_liberty.AWGN.5.png,lady_liberty,noise,1,5,0.4874828789190331,0.1856560029024079
+lady_liberty.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lady_liberty.JPEG.1.png,lady_liberty,jpeg,2,1,0.016972341279743217,0.008541703032770841
+lady_liberty.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lady_liberty.JPEG.2.png,lady_liberty,jpeg,2,2,0.2735137370729849,0.0447302915255724
+lady_liberty.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lady_liberty.JPEG.3.png,lady_liberty,jpeg,2,3,0.5316597293930991,0.17030014565825363
+lady_liberty.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lady_liberty.JPEG.4.png,lady_liberty,jpeg,2,4,0.654502488149883,0.1550640666052488
+lady_liberty.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lady_liberty.JPEG.5.png,lady_liberty,jpeg,2,5,0.7703178811551262,0.1586006578828733
+lady_liberty.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.1.png,lady_liberty,jpeg 2000,3,1,0.031246540877749782,0.04305767496574195
+lady_liberty.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.2.png,lady_liberty,jpeg 2000,3,2,0.2670039523980558,0.12013900223519308
+lady_liberty.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.3.png,lady_liberty,jpeg 2000,3,3,0.5086300071345186,0.06135124228240099
+lady_liberty.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.4.png,lady_liberty,jpeg 2000,3,4,0.7634242439153904,0.11315295764404681
+lady_liberty.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.5.png,lady_liberty,jpeg 2000,3,5,0.9072920193782751,0.03866633399128667
+lady_liberty.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.1.png,lady_liberty,fnoise,4,1,0.03195360117743199,0.052635024371362533
+lady_liberty.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.2.png,lady_liberty,fnoise,4,2,0.19346122699515692,0.10599256655776408
+lady_liberty.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.3.png,lady_liberty,fnoise,4,3,0.35243224472398205,0.1475300621159314
+lady_liberty.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.4.png,lady_liberty,fnoise,4,4,0.505369606266316,0.19515952769624356
+lady_liberty.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.5.png,lady_liberty,fnoise,4,5,0.6419916025765571,0.2112447453260493
+lady_liberty.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lady_liberty.BLUR.1.png,lady_liberty,blur,5,1,0.05893750553970777,0.039406705702159615
+lady_liberty.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lady_liberty.BLUR.2.png,lady_liberty,blur,5,2,0.226532464087034,0.09172748225765036
+lady_liberty.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lady_liberty.BLUR.3.png,lady_liberty,blur,5,3,0.46150318795864764,0.09121190612516374
+lady_liberty.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lady_liberty.BLUR.4.png,lady_liberty,blur,5,4,0.6733039200425408,0.08019315649427942
+lady_liberty.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lady_liberty.BLUR.5.png,lady_liberty,blur,5,5,0.9658047751363336,0.0
+lady_liberty.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lady_liberty.contrast.1.png,lady_liberty,contrast,6,1,0.09167085842049905,0.07013711514129868
+lady_liberty.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lady_liberty.contrast.2.png,lady_liberty,contrast,6,2,0.30520265427440824,0.12068114151358392
+lady_liberty.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lady_liberty.contrast.3.png,lady_liberty,contrast,6,3,0.6405896459182379,0.07349478798588482
+lake.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lake.AWGN.1.png,lake,noise,1,1,0.022140329830172268,0.02842539757787872
+lake.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lake.AWGN.2.png,lake,noise,1,2,0.1369213289643108,0.03482619414814226
+lake.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lake.AWGN.3.png,lake,noise,1,3,0.2952963015785876,0.11167144246718665
+lake.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lake.AWGN.4.png,lake,noise,1,4,0.43723698059650973,0.12847965064221145
+lake.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/lake.AWGN.5.png,lake,noise,1,5,0.5361218387694346,0.14365820056858372
+lake.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lake.JPEG.1.png,lake,jpeg,2,1,0.020702031688327256,0.025899517404400746
+lake.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lake.JPEG.2.png,lake,jpeg,2,2,0.07883698319142575,0.050463833202007924
+lake.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lake.JPEG.3.png,lake,jpeg,2,3,0.15584322423294902,0.12402197616284974
+lake.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lake.JPEG.4.png,lake,jpeg,2,4,0.4293711251588034,0.1604795195640186
+lake.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/lake.JPEG.5.png,lake,jpeg,2,5,0.7299014671860957,0.0
+lake.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.1.png,lake,jpeg 2000,3,1,0.0654311282609431,0.10514975015708693
+lake.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.2.png,lake,jpeg 2000,3,2,0.16694386195554448,0.1476964569334104
+lake.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.3.png,lake,jpeg 2000,3,3,0.24779660537805673,0.1626690135834861
+lake.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.4.png,lake,jpeg 2000,3,4,0.4081225010426934,0.14206929227462692
+lake.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.5.png,lake,jpeg 2000,3,5,0.6823373296365123,0.04316805322191369
+lake.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lake.fnoise.1.png,lake,fnoise,4,1,0.12464651599048177,0.13287816137882913
+lake.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lake.fnoise.2.png,lake,fnoise,4,2,0.2903446082094701,0.14740438812805481
+lake.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lake.fnoise.3.png,lake,fnoise,4,3,0.4396969536072418,0.17894452546974113
+lake.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lake.fnoise.4.png,lake,fnoise,4,4,0.5714982166701015,0.0570139608071078
+lake.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/lake.fnoise.5.png,lake,fnoise,4,5,0.6590318807306986,0.03332601726503773
+lake.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lake.BLUR.1.png,lake,blur,5,1,0.07417684639598797,0.07371243738057848
+lake.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lake.BLUR.2.png,lake,blur,5,2,0.1629259939195413,0.10503710307013418
+lake.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lake.BLUR.3.png,lake,blur,5,3,0.2956277311066074,0.07657755783463321
+lake.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lake.BLUR.4.png,lake,blur,5,4,0.4702066543819844,0.10737447799354322
+lake.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/lake.BLUR.5.png,lake,blur,5,5,0.6547039841249739,0.045449374834797544
+lake.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lake.contrast.1.png,lake,contrast,6,1,0.09433619267283604,0.06470003583010524
+lake.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lake.contrast.2.png,lake,contrast,6,2,0.26506273334541314,0.09311953118092904
+lake.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lake.contrast.3.png,lake,contrast,6,3,0.40973196566247355,0.13821457705209778
+lake.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/lake.contrast.4.png,lake,contrast,6,4,0.5064556060646387,0.01776842470429857
+log_seaside.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/log_seaside.AWGN.1.png,log_seaside,noise,1,1,0.0,0.0
+log_seaside.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/log_seaside.AWGN.2.png,log_seaside,noise,1,2,0.05656106422064853,0.0392474472727247
+log_seaside.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/log_seaside.AWGN.3.png,log_seaside,noise,1,3,0.13185457188840716,0.07586101665419367
+log_seaside.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/log_seaside.AWGN.4.png,log_seaside,noise,1,4,0.2674654400144703,0.12085122135797396
+log_seaside.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/log_seaside.AWGN.5.png,log_seaside,noise,1,5,0.4417616659321377,0.1189602809725024
+log_seaside.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/log_seaside.JPEG.1.png,log_seaside,jpeg,2,1,0.00020753039336134113,0.00044260525539042034
+log_seaside.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/log_seaside.JPEG.2.png,log_seaside,jpeg,2,2,0.0092886386361385,0.006998135107065515
+log_seaside.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/log_seaside.JPEG.3.png,log_seaside,jpeg,2,3,0.03780588861721689,0.0358102027024801
+log_seaside.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/log_seaside.JPEG.4.png,log_seaside,jpeg,2,4,0.2692579018723892,0.05262241082204729
+log_seaside.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/log_seaside.JPEG.5.png,log_seaside,jpeg,2,5,0.6389364281060418,0.06443575352092724
+log_seaside.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.1.png,log_seaside,jpeg 2000,3,1,0.00020753039336134113,0.00044260525539042034
+log_seaside.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.2.png,log_seaside,jpeg 2000,3,2,0.04476349891636775,0.04655209597780713
+log_seaside.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.3.png,log_seaside,jpeg 2000,3,3,0.1599518288320102,0.025518052905598394
+log_seaside.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.4.png,log_seaside,jpeg 2000,3,4,0.3944238422372228,0.07445064825753041
+log_seaside.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.5.png,log_seaside,jpeg 2000,3,5,0.6930414847146111,0.05951140103418763
+log_seaside.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/log_seaside.fnoise.1.png,log_seaside,fnoise,4,1,0.01751022545930075,0.012471010438138254
+log_seaside.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/log_seaside.fnoise.2.png,log_seaside,fnoise,4,2,0.14312521678029924,0.04768590700876568
+log_seaside.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/log_seaside.fnoise.3.png,log_seaside,fnoise,4,3,0.3229692436329491,0.1028666660216789
+log_seaside.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/log_seaside.fnoise.4.png,log_seaside,fnoise,4,4,0.518165050961577,0.08216363255624244
+log_seaside.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/log_seaside.fnoise.5.png,log_seaside,fnoise,4,5,0.6726434086871538,0.07853106347176828
+log_seaside.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/log_seaside.BLUR.1.png,log_seaside,blur,5,1,0.013494440076582367,0.011199976553385272
+log_seaside.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/log_seaside.BLUR.2.png,log_seaside,blur,5,2,0.07807352469324584,0.05277642101189559
+log_seaside.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/log_seaside.BLUR.3.png,log_seaside,blur,5,3,0.2072431203765211,0.0777473404192762
+log_seaside.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/log_seaside.BLUR.4.png,log_seaside,blur,5,4,0.35051352124546986,0.0733960608591554
+log_seaside.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/log_seaside.BLUR.5.png,log_seaside,blur,5,5,0.5903943713208908,0.09711873670057825
+log_seaside.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/log_seaside.contrast.1.png,log_seaside,contrast,6,1,0.02341995824260993,0.02092731587696658
+log_seaside.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/log_seaside.contrast.2.png,log_seaside,contrast,6,2,0.15670477494199767,0.0627619052008187
+log_seaside.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/log_seaside.contrast.3.png,log_seaside,contrast,6,3,0.36906218411332364,0.17221985948296656
+log_seaside.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/log_seaside.contrast.4.png,log_seaside,contrast,6,4,0.45828165808171734,0.19063574231253494
+monument.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/monument.AWGN.1.png,monument,noise,1,1,0.012406726125851164,0.015367009721972136
+monument.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/monument.AWGN.2.png,monument,noise,1,2,0.08107010235139493,0.04279269390896342
+monument.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/monument.AWGN.3.png,monument,noise,1,3,0.18326636849734448,0.08713473704391489
+monument.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/monument.AWGN.4.png,monument,noise,1,4,0.32475796544679086,0.18564579201641493
+monument.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/monument.AWGN.5.png,monument,noise,1,5,0.46774303401931083,0.22570283851164014
+monument.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/monument.JPEG.1.png,monument,jpeg,2,1,0.015565401685681572,0.0065805206613447605
+monument.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/monument.JPEG.2.png,monument,jpeg,2,2,0.06326953934268177,0.0520398611127972
+monument.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/monument.JPEG.3.png,monument,jpeg,2,3,0.32396333981576525,0.0985828393535527
+monument.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/monument.JPEG.4.png,monument,jpeg,2,4,0.5679242047164533,0.1309914846461342
+monument.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/monument.JPEG.5.png,monument,jpeg,2,5,0.7655586061650239,0.0499030524429944
+monument.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.1.png,monument,jpeg 2000,3,1,0.01462370222021191,0.0016971444829805577
+monument.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.2.png,monument,jpeg 2000,3,2,0.10641212793247155,0.03488591993304241
+monument.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.3.png,monument,jpeg 2000,3,3,0.38094814997409426,0.04873371794517063
+monument.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.4.png,monument,jpeg 2000,3,4,0.6651819918630327,0.05116348071957561
+monument.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.5.png,monument,jpeg 2000,3,5,0.8205976601218915,0.0
+monument.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/monument.fnoise.1.png,monument,fnoise,4,1,0.030942595156679926,0.04335262769969021
+monument.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/monument.fnoise.2.png,monument,fnoise,4,2,0.2082398765274084,0.17228773650239435
+monument.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/monument.fnoise.3.png,monument,fnoise,4,3,0.3201265389326928,0.21211567750054894
+monument.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/monument.fnoise.4.png,monument,fnoise,4,4,0.5137090654417219,0.21537151340977678
+monument.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/monument.fnoise.5.png,monument,fnoise,4,5,0.5984775820319763,0.21687914326727004
+monument.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/monument.BLUR.1.png,monument,blur,5,1,0.04766815605585389,0.03777723544647532
+monument.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/monument.BLUR.2.png,monument,blur,5,2,0.1770460609959399,0.07591990521804699
+monument.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/monument.BLUR.3.png,monument,blur,5,3,0.3594012224423955,0.12727409288014968
+monument.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/monument.BLUR.4.png,monument,blur,5,4,0.5875491948128201,0.051570968663356385
+monument.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/monument.BLUR.5.png,monument,blur,5,5,0.7902747740027312,0.01309397622993013
+monument.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/monument.contrast.1.png,monument,contrast,6,1,0.013177206709342705,0.015293321301906557
+monument.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/monument.contrast.2.png,monument,contrast,6,2,0.14237026052404725,0.08261703027600598
+monument.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/monument.contrast.3.png,monument,contrast,6,3,0.2581254533546684,0.1665553701094785
+monument.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/monument.contrast.4.png,monument,contrast,6,4,0.3233505862765588,0.21203302095988066
+native_american.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/native_american.AWGN.1.png,native_american,noise,1,1,0.04032238363185862,0.061146773566276846
+native_american.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/native_american.AWGN.2.png,native_american,noise,1,2,0.06907983963602538,0.07345902383911632
+native_american.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/native_american.AWGN.3.png,native_american,noise,1,3,0.2239481427950523,0.06969765442617738
+native_american.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/native_american.AWGN.4.png,native_american,noise,1,4,0.401099171493965,0.13725977877979836
+native_american.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/native_american.AWGN.5.png,native_american,noise,1,5,0.47605964873546924,0.10931271772282265
+native_american.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/native_american.JPEG.1.png,native_american,jpeg,2,1,0.022605775596352216,0.03529483932493227
+native_american.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/native_american.JPEG.2.png,native_american,jpeg,2,2,0.09170935874657786,0.08453242446257432
+native_american.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/native_american.JPEG.3.png,native_american,jpeg,2,3,0.36207820940119234,0.13374914395101653
+native_american.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/native_american.JPEG.4.png,native_american,jpeg,2,4,0.699263328904396,0.06441426893616033
+native_american.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/native_american.JPEG.5.png,native_american,jpeg,2,5,0.8270436756777012,0.035935828939865154
+native_american.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.1.png,native_american,jpeg 2000,3,1,0.05490659530905783,0.06835512944010134
+native_american.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.2.png,native_american,jpeg 2000,3,2,0.15030966828580347,0.0687601983098467
+native_american.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.3.png,native_american,jpeg 2000,3,3,0.37291986154280193,0.08200745364719482
+native_american.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.4.png,native_american,jpeg 2000,3,4,0.7231220816523759,0.06385522701402316
+native_american.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.5.png,native_american,jpeg 2000,3,5,0.8870846452338665,0.003974099945922875
+native_american.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/native_american.fnoise.1.png,native_american,fnoise,4,1,0.08689972886042316,0.11054187271940617
+native_american.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/native_american.fnoise.2.png,native_american,fnoise,4,2,0.2544571808031815,0.1079916299130408
+native_american.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/native_american.fnoise.3.png,native_american,fnoise,4,3,0.49095603148480166,0.1442356138064474
+native_american.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/native_american.fnoise.4.png,native_american,fnoise,4,4,0.6177298174826941,0.12867035365973725
+native_american.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/native_american.fnoise.5.png,native_american,fnoise,4,5,0.7354442595989716,0.11001981591320587
+native_american.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/native_american.BLUR.1.png,native_american,blur,5,1,0.035080657739721126,0.015804741466874283
+native_american.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/native_american.BLUR.2.png,native_american,blur,5,2,0.17227865504513717,0.13710251153293465
+native_american.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/native_american.BLUR.3.png,native_american,blur,5,3,0.3649387247082297,0.1007388280977119
+native_american.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/native_american.BLUR.4.png,native_american,blur,5,4,0.6065418444946512,0.07492704568071047
+native_american.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/native_american.BLUR.5.png,native_american,blur,5,5,0.8680668386637096,0.02766305545354946
+native_american.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/native_american.contrast.1.png,native_american,contrast,6,1,0.061938392005139335,0.061237390890079416
+native_american.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/native_american.contrast.2.png,native_american,contrast,6,2,0.22373347164259394,0.14394917169553278
+native_american.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/native_american.contrast.3.png,native_american,contrast,6,3,0.369586504999449,0.16221343442231928
+native_american.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/native_american.contrast.4.png,native_american,contrast,6,4,0.4586262657011896,0.218232267887581
+redwood.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/redwood.AWGN.1.png,redwood,noise,1,1,0.050865677759037504,0.023572568729852753
+redwood.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/redwood.AWGN.2.png,redwood,noise,1,2,0.18757399604393257,0.08367806210511078
+redwood.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/redwood.AWGN.3.png,redwood,noise,1,3,0.32269625705424726,0.15082519538883993
+redwood.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/redwood.AWGN.4.png,redwood,noise,1,4,0.43155545289977393,0.19099259020743486
+redwood.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/redwood.AWGN.5.png,redwood,noise,1,5,0.5448384801337426,0.20021667357976222
+redwood.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/redwood.JPEG.1.png,redwood,jpeg,2,1,0.027168490699883342,0.003913902133679174
+redwood.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/redwood.JPEG.2.png,redwood,jpeg,2,2,0.0986550888068831,0.09883858488787547
+redwood.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/redwood.JPEG.3.png,redwood,jpeg,2,3,0.42507176977100775,0.16277189071459763
+redwood.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/redwood.JPEG.4.png,redwood,jpeg,2,4,0.7449259496119867,0.11077226759924658
+redwood.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/redwood.JPEG.5.png,redwood,jpeg,2,5,0.8458024808160968,0.014065711869555951
+redwood.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.1.png,redwood,jpeg 2000,3,1,0.03170744324979188,0.014433350577229831
+redwood.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.2.png,redwood,jpeg 2000,3,2,0.1823164819532712,0.09127738518283778
+redwood.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.3.png,redwood,jpeg 2000,3,3,0.43443769220309997,0.1805144206059815
+redwood.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.4.png,redwood,jpeg 2000,3,4,0.6812361824473293,0.09757988162562294
+redwood.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.5.png,redwood,jpeg 2000,3,5,0.8857255101702701,0.01790177872973457
+redwood.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/redwood.fnoise.1.png,redwood,fnoise,4,1,0.09484426787655904,0.06144433739459686
+redwood.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/redwood.fnoise.2.png,redwood,fnoise,4,2,0.3097809398858342,0.11157321793219495
+redwood.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/redwood.fnoise.3.png,redwood,fnoise,4,3,0.5244519599717377,0.1830926530072266
+redwood.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/redwood.fnoise.4.png,redwood,fnoise,4,4,0.6532465002497106,0.1681369966755695
+redwood.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/redwood.fnoise.5.png,redwood,fnoise,4,5,0.7520708067110978,0.14630954508280067
+redwood.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/redwood.BLUR.1.png,redwood,blur,5,1,0.08794235193562353,0.07346031574882064
+redwood.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/redwood.BLUR.2.png,redwood,blur,5,2,0.22995987952804844,0.08885076399446795
+redwood.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/redwood.BLUR.3.png,redwood,blur,5,3,0.38093059488657455,0.143323780030152
+redwood.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/redwood.BLUR.4.png,redwood,blur,5,4,0.5693538547017916,0.15766400881268752
+redwood.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/redwood.BLUR.5.png,redwood,blur,5,5,0.8455671522920921,0.058892433259251385
+redwood.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/redwood.contrast.1.png,redwood,contrast,6,1,0.07388935473468983,0.09872360210335052
+redwood.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/redwood.contrast.2.png,redwood,contrast,6,2,0.19800096471970427,0.14030852314345457
+redwood.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/redwood.contrast.3.png,redwood,contrast,6,3,0.3898422677727975,0.06065114727537623
+redwood.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/redwood.contrast.4.png,redwood,contrast,6,4,0.47088633894622134,0.24296132027846618
+roping.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/roping.AWGN.1.png,roping,noise,1,1,0.0025008454988086682,0.003580440469893874
+roping.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/roping.AWGN.2.png,roping,noise,1,2,0.10502796535697267,0.1110180499617469
+roping.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/roping.AWGN.3.png,roping,noise,1,3,0.184516970890289,0.15074393686101853
+roping.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/roping.AWGN.4.png,roping,noise,1,4,0.38188366532049267,0.21552212397824894
+roping.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/roping.AWGN.5.png,roping,noise,1,5,0.5130783850929962,0.27253563217836063
+roping.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/roping.JPEG.1.png,roping,jpeg,2,1,0.013676544284140005,0.01492372997564208
+roping.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/roping.JPEG.2.png,roping,jpeg,2,2,0.07511515072172718,0.06192384609780153
+roping.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/roping.JPEG.3.png,roping,jpeg,2,3,0.30044760864590087,0.15593789156389098
+roping.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/roping.JPEG.4.png,roping,jpeg,2,4,0.5992930581806168,0.1473279791212811
+roping.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/roping.JPEG.5.png,roping,jpeg,2,5,0.8292912762324092,0.0882151827909116
+roping.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.1.png,roping,jpeg 2000,3,1,0.017064766116514165,0.019016536213494258
+roping.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.2.png,roping,jpeg 2000,3,2,0.17185760841662906,0.09078672972268345
+roping.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.3.png,roping,jpeg 2000,3,3,0.3642080907090584,0.14370399708312145
+roping.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.4.png,roping,jpeg 2000,3,4,0.6709766963976174,0.15408793884978503
+roping.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.5.png,roping,jpeg 2000,3,5,0.9102313222729952,0.0
+roping.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/roping.fnoise.1.png,roping,fnoise,4,1,0.032260134448218784,0.016572723398181846
+roping.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/roping.fnoise.2.png,roping,fnoise,4,2,0.13874277919031724,0.11173354130957774
+roping.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/roping.fnoise.3.png,roping,fnoise,4,3,0.3358916222042319,0.2309567445349558
+roping.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/roping.fnoise.4.png,roping,fnoise,4,4,0.5125083255862067,0.21508058165750046
+roping.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/roping.fnoise.5.png,roping,fnoise,4,5,0.7382563630968759,0.03521256990685733
+roping.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/roping.BLUR.1.png,roping,blur,5,1,0.03410828043987464,0.04042842058575191
+roping.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/roping.BLUR.2.png,roping,blur,5,2,0.1884989690235827,0.17757030536195054
+roping.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/roping.BLUR.3.png,roping,blur,5,3,0.4705438307089355,0.1693671754896766
+roping.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/roping.BLUR.4.png,roping,blur,5,4,0.6700459059216569,0.13264226124882003
+roping.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/roping.BLUR.5.png,roping,blur,5,5,0.8797110078500835,0.031853414200572486
+roping.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/roping.contrast.1.png,roping,contrast,6,1,0.05644343811602687,0.05362701498343806
+roping.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/roping.contrast.2.png,roping,contrast,6,2,0.19212609143737985,0.13869199165896648
+roping.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/roping.contrast.3.png,roping,contrast,6,3,0.37088474545624295,0.21967937714936098
+roping.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/roping.contrast.4.png,roping,contrast,6,4,0.4503672604466767,0.26711984655643983
+rushmore.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/rushmore.AWGN.1.png,rushmore,noise,1,1,0.03249848556794882,0.017119042332298457
+rushmore.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/rushmore.AWGN.2.png,rushmore,noise,1,2,0.13099574780067338,0.09999649054733085
+rushmore.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/rushmore.AWGN.3.png,rushmore,noise,1,3,0.25889652404382435,0.09822007325567124
+rushmore.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/rushmore.AWGN.4.png,rushmore,noise,1,4,0.381887860086755,0.10780968934835936
+rushmore.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/rushmore.AWGN.5.png,rushmore,noise,1,5,0.5126026569542393,0.11538760769295056
+rushmore.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/rushmore.JPEG.1.png,rushmore,jpeg,2,1,0.024131042514372467,0.009829330315373974
+rushmore.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/rushmore.JPEG.2.png,rushmore,jpeg,2,2,0.04297166436976475,0.06041505018719797
+rushmore.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/rushmore.JPEG.3.png,rushmore,jpeg,2,3,0.18069261864182198,0.09206191052448406
+rushmore.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/rushmore.JPEG.4.png,rushmore,jpeg,2,4,0.5372723299882741,0.08151149640501905
+rushmore.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/rushmore.JPEG.5.png,rushmore,jpeg,2,5,0.6662993310910343,0.059518694486652576
+rushmore.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.1.png,rushmore,jpeg 2000,3,1,0.018267739085299165,0.028050662395309157
+rushmore.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.2.png,rushmore,jpeg 2000,3,2,0.09004385958541956,0.05140711816718155
+rushmore.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.3.png,rushmore,jpeg 2000,3,3,0.30623752404460713,0.03369473272387848
+rushmore.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.4.png,rushmore,jpeg 2000,3,4,0.5014119207592936,0.019157960529534012
+rushmore.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.5.png,rushmore,jpeg 2000,3,5,0.7537666979373836,0.0
+rushmore.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/rushmore.fnoise.1.png,rushmore,fnoise,4,1,0.19839979290388393,0.013885818203091467
+rushmore.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/rushmore.fnoise.2.png,rushmore,fnoise,4,2,0.29664814388356575,0.0731982931667447
+rushmore.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/rushmore.fnoise.3.png,rushmore,fnoise,4,3,0.42226671071504696,0.07040277593520075
+rushmore.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/rushmore.fnoise.4.png,rushmore,fnoise,4,4,0.5466375268290555,0.13087948746714545
+rushmore.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/rushmore.fnoise.5.png,rushmore,fnoise,4,5,0.6358556783682486,0.10662673020088394
+rushmore.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/rushmore.BLUR.1.png,rushmore,blur,5,1,0.01144223942612916,0.020803096989989348
+rushmore.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/rushmore.BLUR.2.png,rushmore,blur,5,2,0.08328696156795737,0.1295834456854878
+rushmore.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/rushmore.BLUR.3.png,rushmore,blur,5,3,0.2415826520532362,0.11917832370904505
+rushmore.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/rushmore.BLUR.4.png,rushmore,blur,5,4,0.41557587347732106,0.11461583610078893
+rushmore.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/rushmore.BLUR.5.png,rushmore,blur,5,5,0.6575907408348292,0.09606797872558855
+rushmore.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/rushmore.contrast.1.png,rushmore,contrast,6,1,0.12470785915433244,0.1629907746221727
+rushmore.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/rushmore.contrast.2.png,rushmore,contrast,6,2,0.28958779692210046,0.16553136858367107
+rushmore.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/rushmore.contrast.3.png,rushmore,contrast,6,3,0.39293044151152834,0.1471879638917368
+rushmore.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/rushmore.contrast.4.png,rushmore,contrast,6,4,0.505776827855747,0.14182671527820934
+shroom.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/shroom.AWGN.1.png,shroom,noise,1,1,0.03144853767085046,0.045002903374970975
+shroom.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/shroom.AWGN.2.png,shroom,noise,1,2,0.1356022933875352,0.10807749731192476
+shroom.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/shroom.AWGN.3.png,shroom,noise,1,3,0.23673003113417923,0.09813375315239091
+shroom.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/shroom.AWGN.4.png,shroom,noise,1,4,0.3551407044447581,0.12704630852222842
+shroom.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/shroom.AWGN.5.png,shroom,noise,1,5,0.4632348915067113,0.13045389838135676
+shroom.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/shroom.JPEG.1.png,shroom,jpeg,2,1,0.019646794185940925,0.0034034344507137106
+shroom.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/shroom.JPEG.2.png,shroom,jpeg,2,2,0.12472803207824729,0.13576856314001662
+shroom.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/shroom.JPEG.3.png,shroom,jpeg,2,3,0.3070873334780316,0.09398047181203753
+shroom.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/shroom.JPEG.4.png,shroom,jpeg,2,4,0.663131140904666,0.04654293612016015
+shroom.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/shroom.JPEG.5.png,shroom,jpeg,2,5,0.7800809051992209,0.03804573033106538
+shroom.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.1.png,shroom,jpeg 2000,3,1,0.004009883470916641,0.005146993123163355
+shroom.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.2.png,shroom,jpeg 2000,3,2,0.08026343906227397,0.051290812580352715
+shroom.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.3.png,shroom,jpeg 2000,3,3,0.3910207327890534,0.06408995100904433
+shroom.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.4.png,shroom,jpeg 2000,3,4,0.6054350917688491,0.030236876655526716
+shroom.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.5.png,shroom,jpeg 2000,3,5,0.8365715603384174,0.0010109211239743697
+shroom.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/shroom.fnoise.1.png,shroom,fnoise,4,1,0.02154584346279844,0.005485374691464792
+shroom.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/shroom.fnoise.2.png,shroom,fnoise,4,2,0.1799836480792186,0.11043104966328024
+shroom.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/shroom.fnoise.3.png,shroom,fnoise,4,3,0.3557389613685824,0.10152830287020928
+shroom.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/shroom.fnoise.4.png,shroom,fnoise,4,4,0.5747635861370053,0.09731856338039896
+shroom.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/shroom.fnoise.5.png,shroom,fnoise,4,5,0.7016579579815861,0.09789441179766745
+shroom.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/shroom.BLUR.1.png,shroom,blur,5,1,0.04604153296737957,0.06777815241143076
+shroom.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/shroom.BLUR.2.png,shroom,blur,5,2,0.161031365699665,0.10358506130321629
+shroom.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/shroom.BLUR.3.png,shroom,blur,5,3,0.3947081608486806,0.05046251490313112
+shroom.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/shroom.BLUR.4.png,shroom,blur,5,4,0.5491598986857438,0.07060635297359566
+shroom.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/shroom.BLUR.5.png,shroom,blur,5,5,0.7692416529963186,0.07942831225830967
+shroom.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/shroom.contrast.1.png,shroom,contrast,6,1,0.0806303935443436,0.0963548247856016
+shroom.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/shroom.contrast.2.png,shroom,contrast,6,2,0.1843742746906754,0.09233597835224315
+shroom.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/shroom.contrast.3.png,shroom,contrast,6,3,0.33278559915126865,0.10950869767385911
+shroom.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/shroom.contrast.4.png,shroom,contrast,6,4,0.4101935718681961,0.133381903218101
+snow_leaves.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/snow_leaves.AWGN.1.png,snow_leaves,noise,1,1,0.018847775159151228,0.0
+snow_leaves.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/snow_leaves.AWGN.2.png,snow_leaves,noise,1,2,0.06348715009976756,0.06739722335857613
+snow_leaves.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/snow_leaves.AWGN.3.png,snow_leaves,noise,1,3,0.21173971427156488,0.18522498589551004
+snow_leaves.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/snow_leaves.AWGN.4.png,snow_leaves,noise,1,4,0.2934385172669151,0.08093091905415499
+snow_leaves.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/snow_leaves.AWGN.5.png,snow_leaves,noise,1,5,0.4341273851888047,0.15427998106937718
+snow_leaves.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/snow_leaves.JPEG.1.png,snow_leaves,jpeg,2,1,0.02185800951816419,0.036066666768569136
+snow_leaves.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/snow_leaves.JPEG.2.png,snow_leaves,jpeg,2,2,0.05966057228741235,0.035335286584392035
+snow_leaves.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/snow_leaves.JPEG.3.png,snow_leaves,jpeg,2,3,0.26090468640769654,0.12817863246999844
+snow_leaves.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/snow_leaves.JPEG.4.png,snow_leaves,jpeg,2,4,0.5552483724971036,0.11874285159440012
+snow_leaves.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/snow_leaves.JPEG.5.png,snow_leaves,jpeg,2,5,0.7108158442220269,0.06377335902105012
+snow_leaves.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.1.png,snow_leaves,jpeg 2000,3,1,0.0040270763140849136,0.005312853919132543
+snow_leaves.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.2.png,snow_leaves,jpeg 2000,3,2,0.0778399810671191,0.06724874805285809
+snow_leaves.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.3.png,snow_leaves,jpeg 2000,3,3,0.18738096409348118,0.04835163265681499
+snow_leaves.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.4.png,snow_leaves,jpeg 2000,3,4,0.5553998776231686,0.08446652340483887
+snow_leaves.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.5.png,snow_leaves,jpeg 2000,3,5,0.7565906158116011,0.035423267155239836
+snow_leaves.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.1.png,snow_leaves,fnoise,4,1,0.04763366235047834,0.05549179641435853
+snow_leaves.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.2.png,snow_leaves,fnoise,4,2,0.2245762740160439,0.11462234657392364
+snow_leaves.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.3.png,snow_leaves,fnoise,4,3,0.4114111206491345,0.19892245957511423
+snow_leaves.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.4.png,snow_leaves,fnoise,4,4,0.5360419191061029,0.13296098701131803
+snow_leaves.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.5.png,snow_leaves,fnoise,4,5,0.6791350010219133,0.15685550612801674
+snow_leaves.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/snow_leaves.BLUR.1.png,snow_leaves,blur,5,1,0.019750907359368026,0.030321575851525298
+snow_leaves.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/snow_leaves.BLUR.2.png,snow_leaves,blur,5,2,0.13974413638630578,0.06676094062540318
+snow_leaves.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/snow_leaves.BLUR.3.png,snow_leaves,blur,5,3,0.3003250012575687,0.14934743350047405
+snow_leaves.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/snow_leaves.BLUR.4.png,snow_leaves,blur,5,4,0.45980944165032694,0.21638836218623997
+snow_leaves.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/snow_leaves.BLUR.5.png,snow_leaves,blur,5,5,0.6964102274069592,0.07884209954274082
+snow_leaves.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/snow_leaves.contrast.1.png,snow_leaves,contrast,6,1,0.04065968414002213,0.027977588944919446
+snow_leaves.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/snow_leaves.contrast.2.png,snow_leaves,contrast,6,2,0.2209429677651783,0.11476976173613858
+snow_leaves.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/snow_leaves.contrast.3.png,snow_leaves,contrast,6,3,0.3195265439439363,0.14498405878302276
+snow_leaves.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/snow_leaves.contrast.4.png,snow_leaves,contrast,6,4,0.378758396921972,0.14775541185526953
+sunset_sparrow.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunset_sparrow.AWGN.1.png,sunset_sparrow,noise,1,1,0.042131184872463055,0.04863300832200809
+sunset_sparrow.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunset_sparrow.AWGN.2.png,sunset_sparrow,noise,1,2,0.17927776216837588,0.07394360711548546
+sunset_sparrow.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunset_sparrow.AWGN.3.png,sunset_sparrow,noise,1,3,0.3255521875582028,0.12126992767053661
+sunset_sparrow.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunset_sparrow.AWGN.4.png,sunset_sparrow,noise,1,4,0.45765866705868685,0.10543227177695068
+sunset_sparrow.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunset_sparrow.AWGN.5.png,sunset_sparrow,noise,1,5,0.5489817652886091,0.14188311196707165
+sunset_sparrow.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunset_sparrow.JPEG.1.png,sunset_sparrow,jpeg,2,1,0.043166613511600734,0.06063621153506191
+sunset_sparrow.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunset_sparrow.JPEG.2.png,sunset_sparrow,jpeg,2,2,0.1173858901432818,0.07111113969917097
+sunset_sparrow.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunset_sparrow.JPEG.3.png,sunset_sparrow,jpeg,2,3,0.3417185998354168,0.14580385430811596
+sunset_sparrow.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunset_sparrow.JPEG.4.png,sunset_sparrow,jpeg,2,4,0.7215177084056238,0.06164930281512207
+sunset_sparrow.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunset_sparrow.JPEG.5.png,sunset_sparrow,jpeg,2,5,0.8260705557525166,0.03401942063204857
+sunset_sparrow.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.1.png,sunset_sparrow,jpeg 2000,3,1,0.058401691448940654,0.08324536184443737
+sunset_sparrow.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.2.png,sunset_sparrow,jpeg 2000,3,2,0.17850122211894923,0.09615343889399165
+sunset_sparrow.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.3.png,sunset_sparrow,jpeg 2000,3,3,0.3912552086116269,0.11495154207304473
+sunset_sparrow.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.4.png,sunset_sparrow,jpeg 2000,3,4,0.6060846902003225,0.09416906391191118
+sunset_sparrow.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.5.png,sunset_sparrow,jpeg 2000,3,5,0.8888100948524243,0.0006512832404895469
+sunset_sparrow.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.1.png,sunset_sparrow,fnoise,4,1,0.22416334100122565,0.1561380487725181
+sunset_sparrow.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.2.png,sunset_sparrow,fnoise,4,2,0.36921474557592343,0.1256147213507219
+sunset_sparrow.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.3.png,sunset_sparrow,fnoise,4,3,0.5390786784606494,0.1728631516197171
+sunset_sparrow.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.4.png,sunset_sparrow,fnoise,4,4,0.6068229992161186,0.1269397819996516
+sunset_sparrow.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.5.png,sunset_sparrow,fnoise,4,5,0.7342199694083983,0.020523670017688594
+sunset_sparrow.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunset_sparrow.BLUR.1.png,sunset_sparrow,blur,5,1,0.08654692643889202,0.08698574517471865
+sunset_sparrow.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunset_sparrow.BLUR.2.png,sunset_sparrow,blur,5,2,0.19069223495591636,0.10989377552699149
+sunset_sparrow.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunset_sparrow.BLUR.3.png,sunset_sparrow,blur,5,3,0.3068909184304163,0.11805376719217604
+sunset_sparrow.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunset_sparrow.BLUR.4.png,sunset_sparrow,blur,5,4,0.5476038174123357,0.07602663967893714
+sunset_sparrow.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunset_sparrow.BLUR.5.png,sunset_sparrow,blur,5,5,0.8459183068977392,0.03022735882061122
+sunset_sparrow.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.1.png,sunset_sparrow,contrast,6,1,0.09357843193244204,0.08754072577838319
+sunset_sparrow.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.2.png,sunset_sparrow,contrast,6,2,0.26049266612963307,0.16242345840680056
+sunset_sparrow.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.3.png,sunset_sparrow,contrast,6,3,0.40187195765705297,0.19997135229442714
+sunset_sparrow.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.4.png,sunset_sparrow,contrast,6,4,0.46539822781144724,0.22772137337839926
+sunsetcolor.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunsetcolor.AWGN.1.png,sunsetcolor,noise,1,1,0.039306145962696167,0.03755652758387289
+sunsetcolor.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunsetcolor.AWGN.2.png,sunsetcolor,noise,1,2,0.20556382339517965,0.1036843457503086
+sunsetcolor.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunsetcolor.AWGN.3.png,sunsetcolor,noise,1,3,0.30209527786483825,0.10539779431058804
+sunsetcolor.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunsetcolor.AWGN.4.png,sunsetcolor,noise,1,4,0.4093955114873301,0.1390498525561914
+sunsetcolor.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/sunsetcolor.AWGN.5.png,sunsetcolor,noise,1,5,0.5151544012013097,0.17989070181947475
+sunsetcolor.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunsetcolor.JPEG.1.png,sunsetcolor,jpeg,2,1,0.03117049797793712,0.030502550220143573
+sunsetcolor.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunsetcolor.JPEG.2.png,sunsetcolor,jpeg,2,2,0.43600319003346416,0.07776481118794056
+sunsetcolor.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunsetcolor.JPEG.3.png,sunsetcolor,jpeg,2,3,0.6930300660442651,0.09441561941859346
+sunsetcolor.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunsetcolor.JPEG.4.png,sunsetcolor,jpeg,2,4,0.884946330660783,0.07856433941479636
+sunsetcolor.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/sunsetcolor.JPEG.5.png,sunsetcolor,jpeg,2,5,0.9176434618166124,0.07889587950496753
+sunsetcolor.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.1.png,sunsetcolor,jpeg 2000,3,1,0.02392818662661784,0.02196229803722239
+sunsetcolor.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.2.png,sunsetcolor,jpeg 2000,3,2,0.3006532057785079,0.1381186042930054
+sunsetcolor.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.3.png,sunsetcolor,jpeg 2000,3,3,0.6552262721284305,0.015960501788690656
+sunsetcolor.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.4.png,sunsetcolor,jpeg 2000,3,4,0.8508908929712239,0.055920130089549575
+sunsetcolor.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.5.png,sunsetcolor,jpeg 2000,3,5,1.0,0.021089506109004088
+sunsetcolor.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.1.png,sunsetcolor,fnoise,4,1,0.11923335053806627,0.06650038490879112
+sunsetcolor.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.2.png,sunsetcolor,fnoise,4,2,0.3392142648734188,0.10786981201094707
+sunsetcolor.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.3.png,sunsetcolor,fnoise,4,3,0.5314455643225126,0.14716250519951682
+sunsetcolor.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.4.png,sunsetcolor,fnoise,4,4,0.6173062372900298,0.1476564375003178
+sunsetcolor.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.5.png,sunsetcolor,fnoise,4,5,0.7214422199872957,0.15184582326721482
+sunsetcolor.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunsetcolor.BLUR.1.png,sunsetcolor,blur,5,1,0.07307560132701661,0.04781409991280266
+sunsetcolor.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunsetcolor.BLUR.2.png,sunsetcolor,blur,5,2,0.30852646052992144,0.16013017763066434
+sunsetcolor.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunsetcolor.BLUR.3.png,sunsetcolor,blur,5,3,0.7259181911560919,0.14373242937409952
+sunsetcolor.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunsetcolor.BLUR.4.png,sunsetcolor,blur,5,4,0.9627826522623961,0.022678762917836496
+sunsetcolor.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/sunsetcolor.BLUR.5.png,sunsetcolor,blur,5,5,0.9994086365590071,0.012064662198553074
+sunsetcolor.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunsetcolor.contrast.1.png,sunsetcolor,contrast,6,1,0.05203784021614065,0.035286675467057105
+sunsetcolor.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunsetcolor.contrast.2.png,sunsetcolor,contrast,6,2,0.13097277627997245,0.07768685606673989
+sunsetcolor.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunsetcolor.contrast.3.png,sunsetcolor,contrast,6,3,0.2726005740709034,0.04321909761894415
+sunsetcolor.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/sunsetcolor.contrast.4.png,sunsetcolor,contrast,6,4,0.4131021798747081,0.13272689388003775
+swarm.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/swarm.AWGN.1.png,swarm,noise,1,1,0.0351958629736669,0.04184298154846349
+swarm.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/swarm.AWGN.2.png,swarm,noise,1,2,0.165719636553417,0.06699618356364326
+swarm.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/swarm.AWGN.3.png,swarm,noise,1,3,0.3218724055956994,0.12323944549506453
+swarm.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/swarm.AWGN.4.png,swarm,noise,1,4,0.41923208270216994,0.1571390803808254
+swarm.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/swarm.AWGN.5.png,swarm,noise,1,5,0.5771753814125309,0.18324164472784846
+swarm.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/swarm.JPEG.1.png,swarm,jpeg,2,1,0.0466211817293208,0.05849280497906117
+swarm.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/swarm.JPEG.2.png,swarm,jpeg,2,2,0.36929320894744594,0.07886126663146957
+swarm.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/swarm.JPEG.3.png,swarm,jpeg,2,3,0.713531869602051,0.16131462456782514
+swarm.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/swarm.JPEG.4.png,swarm,jpeg,2,4,0.7759623611843663,0.16809648261304966
+swarm.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/swarm.JPEG.5.png,swarm,jpeg,2,5,0.891153287819475,0.11208936209903371
+swarm.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.1.png,swarm,jpeg 2000,3,1,0.03279601574538786,0.014632731215073792
+swarm.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.2.png,swarm,jpeg 2000,3,2,0.3133277025179598,0.1413485379345151
+swarm.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.3.png,swarm,jpeg 2000,3,3,0.5723002201561003,0.1426940719408745
+swarm.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.4.png,swarm,jpeg 2000,3,4,0.8373743201169841,0.06833445306200393
+swarm.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.5.png,swarm,jpeg 2000,3,5,0.9671522648947802,0.032023990725853914
+swarm.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/swarm.fnoise.1.png,swarm,fnoise,4,1,0.07239021117592705,0.07733502369607892
+swarm.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/swarm.fnoise.2.png,swarm,fnoise,4,2,0.36570016671566774,0.01606600724023424
+swarm.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/swarm.fnoise.3.png,swarm,fnoise,4,3,0.5863255329517421,0.06406181478800052
+swarm.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/swarm.fnoise.4.png,swarm,fnoise,4,4,0.6967302184749514,0.21013713193827246
+swarm.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/swarm.fnoise.5.png,swarm,fnoise,4,5,0.8164090218109881,0.15255690845244163
+swarm.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/swarm.BLUR.1.png,swarm,blur,5,1,0.07540584921203503,0.09999621562501641
+swarm.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/swarm.BLUR.2.png,swarm,blur,5,2,0.29251160259288356,0.10934570050120479
+swarm.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/swarm.BLUR.3.png,swarm,blur,5,3,0.5587929645263566,0.12666131637528008
+swarm.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/swarm.BLUR.4.png,swarm,blur,5,4,0.8179716967762629,0.1311009052394636
+swarm.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/swarm.BLUR.5.png,swarm,blur,5,5,0.9628265352945923,0.03101538592468207
+swarm.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/swarm.contrast.1.png,swarm,contrast,6,1,0.09061317201532486,0.12283879165495655
+swarm.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/swarm.contrast.2.png,swarm,contrast,6,2,0.31475237457990074,0.1638248217369054
+swarm.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/swarm.contrast.3.png,swarm,contrast,6,3,0.6252698110118692,0.10799074984188986
+trolley.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/trolley.AWGN.1.png,trolley,noise,1,1,0.028643663846374887,0.005046912210160619
+trolley.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/trolley.AWGN.2.png,trolley,noise,1,2,0.09028266763933983,0.07579755941795872
+trolley.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/trolley.AWGN.3.png,trolley,noise,1,3,0.21987382744076434,0.07656567676142499
+trolley.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/trolley.AWGN.4.png,trolley,noise,1,4,0.34187206865440406,0.07875490421254597
+trolley.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/trolley.AWGN.5.png,trolley,noise,1,5,0.45025930065443365,0.09735101238471629
+trolley.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/trolley.JPEG.1.png,trolley,jpeg,2,1,0.02626624980291946,0.0027967442948703676
+trolley.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/trolley.JPEG.2.png,trolley,jpeg,2,2,0.05728734139445356,0.03870616760775293
+trolley.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/trolley.JPEG.3.png,trolley,jpeg,2,3,0.1684800810733737,0.1060489144747717
+trolley.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/trolley.JPEG.4.png,trolley,jpeg,2,4,0.578453969351756,0.07037665661391683
+trolley.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/trolley.JPEG.5.png,trolley,jpeg,2,5,0.7265398724937592,0.04553416952023656
+trolley.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.1.png,trolley,jpeg 2000,3,1,0.03596190642408786,0.015142401172201897
+trolley.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.2.png,trolley,jpeg 2000,3,2,0.16442514848622108,0.09897906934721959
+trolley.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.3.png,trolley,jpeg 2000,3,3,0.34971536015808224,0.053845289929766706
+trolley.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.4.png,trolley,jpeg 2000,3,4,0.5331824908532732,0.06624712270083165
+trolley.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.5.png,trolley,jpeg 2000,3,5,0.7639330025658747,0.009650886058470375
+trolley.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/trolley.fnoise.1.png,trolley,fnoise,4,1,0.06715074419762768,0.05879779973893307
+trolley.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/trolley.fnoise.2.png,trolley,fnoise,4,2,0.29390526894669505,0.15164915853095862
+trolley.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/trolley.fnoise.3.png,trolley,fnoise,4,3,0.4320261775188243,0.08515983289341583
+trolley.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/trolley.fnoise.4.png,trolley,fnoise,4,4,0.5864919040985153,0.1192788199061544
+trolley.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/trolley.fnoise.5.png,trolley,fnoise,4,5,0.7009579402713552,0.06514359099279915
+trolley.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/trolley.BLUR.1.png,trolley,blur,5,1,0.03635365422590742,0.010389539909839086
+trolley.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/trolley.BLUR.2.png,trolley,blur,5,2,0.11515812032165627,0.10009732187075411
+trolley.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/trolley.BLUR.3.png,trolley,blur,5,3,0.22982493617965943,0.09951564616269443
+trolley.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/trolley.BLUR.4.png,trolley,blur,5,4,0.40696273342420697,0.07656255010026582
+trolley.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/trolley.BLUR.5.png,trolley,blur,5,5,0.6058603182382641,0.0791548304353173
+trolley.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/trolley.contrast.1.png,trolley,contrast,6,1,0.056003059616345365,0.07458142300286126
+trolley.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/trolley.contrast.2.png,trolley,contrast,6,2,0.21499476885162408,0.08304096736816288
+trolley.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/trolley.contrast.3.png,trolley,contrast,6,3,0.43300171702045914,0.10908914529262076
+trolley.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/trolley.contrast.4.png,trolley,contrast,6,4,0.49713803032694515,0.10278732413687108
+turtle.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/turtle.AWGN.1.png,turtle,noise,1,1,0.019980532542800435,0.006416968553772302
+turtle.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/turtle.AWGN.2.png,turtle,noise,1,2,0.11922007583874475,0.05537243236573641
+turtle.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/turtle.AWGN.3.png,turtle,noise,1,3,0.19871485609912387,0.10362731627487061
+turtle.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/turtle.AWGN.4.png,turtle,noise,1,4,0.3293545612019619,0.0855684009043322
+turtle.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/turtle.AWGN.5.png,turtle,noise,1,5,0.4356485462126361,0.08910718067608057
+turtle.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/turtle.JPEG.1.png,turtle,jpeg,2,1,0.015466592960699951,0.0022449357038695924
+turtle.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/turtle.JPEG.2.png,turtle,jpeg,2,2,0.12871853965252777,0.026786684729578212
+turtle.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/turtle.JPEG.3.png,turtle,jpeg,2,3,0.48842957278031046,0.10320720039445887
+turtle.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/turtle.JPEG.4.png,turtle,jpeg,2,4,0.6895354736878774,0.0742135416864202
+turtle.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/turtle.JPEG.5.png,turtle,jpeg,2,5,0.7750161397003734,0.0850179894874006
+turtle.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.1.png,turtle,jpeg 2000,3,1,0.0019719621438775868,0.0033697657381002643
+turtle.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.2.png,turtle,jpeg 2000,3,2,0.1621156166923698,0.08262513591867425
+turtle.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.3.png,turtle,jpeg 2000,3,3,0.5316645696717051,0.05580657747836444
+turtle.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.4.png,turtle,jpeg 2000,3,4,0.8023202600648329,0.051403357229177826
+turtle.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.5.png,turtle,jpeg 2000,3,5,0.9842003633639042,0.0005838327684349695
+turtle.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/turtle.fnoise.1.png,turtle,fnoise,4,1,0.03881758375499227,0.056872542031506844
+turtle.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/turtle.fnoise.2.png,turtle,fnoise,4,2,0.17260308581992334,0.0738509520701442
+turtle.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/turtle.fnoise.3.png,turtle,fnoise,4,3,0.3447859268308859,0.09454503161106909
+turtle.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/turtle.fnoise.4.png,turtle,fnoise,4,4,0.5383839936617876,0.07380167484598885
+turtle.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/turtle.fnoise.5.png,turtle,fnoise,4,5,0.6531167977489708,0.04981189202602547
+turtle.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/turtle.BLUR.1.png,turtle,blur,5,1,0.06045495344653714,0.0667081886854644
+turtle.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/turtle.BLUR.2.png,turtle,blur,5,2,0.2348571312419735,0.07943700488383766
+turtle.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/turtle.BLUR.3.png,turtle,blur,5,3,0.5180877220210365,0.07313170960021244
+turtle.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/turtle.BLUR.4.png,turtle,blur,5,4,0.7474646826271428,0.04121835397153742
+turtle.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/turtle.BLUR.5.png,turtle,blur,5,5,0.9328875307180293,0.03706082105674082
+turtle.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/turtle.contrast.1.png,turtle,contrast,6,1,0.07924606309555925,0.06142226417550548
+turtle.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/turtle.contrast.2.png,turtle,contrast,6,2,0.19889158324490908,0.11278981048191623
+turtle.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/turtle.contrast.3.png,turtle,contrast,6,3,0.40658785474533005,0.12675398248504774
+turtle.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/turtle.contrast.4.png,turtle,contrast,6,4,0.5542360201330179,0.11188954324287391
+veggies.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/veggies.AWGN.1.png,veggies,noise,1,1,0.017591866904660962,0.02376521522558933
+veggies.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/veggies.AWGN.2.png,veggies,noise,1,2,0.09845071894950923,0.08984295756705389
+veggies.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/veggies.AWGN.3.png,veggies,noise,1,3,0.2135959546519456,0.13226945373813234
+veggies.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/veggies.AWGN.4.png,veggies,noise,1,4,0.3467557517731026,0.17859202945858788
+veggies.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/veggies.AWGN.5.png,veggies,noise,1,5,0.4724585228953104,0.19017190588228375
+veggies.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/veggies.JPEG.1.png,veggies,jpeg,2,1,0.03755230653728378,0.0456280968453274
+veggies.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/veggies.JPEG.2.png,veggies,jpeg,2,2,0.10766064877405053,0.07329045690887402
+veggies.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/veggies.JPEG.3.png,veggies,jpeg,2,3,0.22940962997118547,0.10149931868796307
+veggies.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/veggies.JPEG.4.png,veggies,jpeg,2,4,0.5898208194145261,0.1506135376797067
+veggies.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/veggies.JPEG.5.png,veggies,jpeg,2,5,0.7303943166000278,0.02578183283578977
+veggies.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.1.png,veggies,jpeg 2000,3,1,0.04510290407256676,0.0617481127012151
+veggies.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.2.png,veggies,jpeg 2000,3,2,0.11430758405726535,0.12685023651391159
+veggies.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.3.png,veggies,jpeg 2000,3,3,0.3172980643742425,0.1698558953202936
+veggies.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.4.png,veggies,jpeg 2000,3,4,0.5477130505858583,0.07293255168100243
+veggies.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.5.png,veggies,jpeg 2000,3,5,0.7719458951213471,0.028406512582103048
+veggies.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/veggies.fnoise.1.png,veggies,fnoise,4,1,0.0645482074543482,0.08153382109899174
+veggies.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/veggies.fnoise.2.png,veggies,fnoise,4,2,0.2029101714267473,0.11861265862351461
+veggies.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/veggies.fnoise.3.png,veggies,fnoise,4,3,0.3710826918010138,0.14124597266645772
+veggies.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/veggies.fnoise.4.png,veggies,fnoise,4,4,0.6001939977117847,0.024656031156827605
+veggies.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/veggies.fnoise.5.png,veggies,fnoise,4,5,0.6830205831953793,0.009149581341215894
+veggies.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/veggies.BLUR.1.png,veggies,blur,5,1,0.05644423683727933,0.02697455321437581
+veggies.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/veggies.BLUR.2.png,veggies,blur,5,2,0.20628515174046488,0.11876531581215595
+veggies.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/veggies.BLUR.3.png,veggies,blur,5,3,0.34889888654683165,0.1066882045147869
+veggies.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/veggies.BLUR.4.png,veggies,blur,5,4,0.5213981563015798,0.08075566419688711
+veggies.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/veggies.BLUR.5.png,veggies,blur,5,5,0.7188363195990565,0.030369620622603784
+veggies.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/veggies.contrast.1.png,veggies,contrast,6,1,0.05554816523513847,0.020660235971427843
+veggies.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/veggies.contrast.2.png,veggies,contrast,6,2,0.20282257585730787,0.11926347962759468
+veggies.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/veggies.contrast.3.png,veggies,contrast,6,3,0.3317161647021082,0.17094287721487322
+veggies.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/veggies.contrast.4.png,veggies,contrast,6,4,0.3853332977569799,0.17826704985857736
+woman.AWGN.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/woman.AWGN.1.png,woman,noise,1,1,0.05184056258769621,0.04954791245683267
+woman.AWGN.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/woman.AWGN.2.png,woman,noise,1,2,0.1971474975131637,0.11348091418009498
+woman.AWGN.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/woman.AWGN.3.png,woman,noise,1,3,0.2886159941833936,0.11181975463557625
+woman.AWGN.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/woman.AWGN.4.png,woman,noise,1,4,0.40910349311446276,0.1407166865921463
+woman.AWGN.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/awgn/woman.AWGN.5.png,woman,noise,1,5,0.48983047472581015,0.12260295049721155
+woman.JPEG.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/woman.JPEG.1.png,woman,jpeg,2,1,0.031199188644283733,0.04183078915431965
+woman.JPEG.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/woman.JPEG.2.png,woman,jpeg,2,2,0.11871462875037572,0.1121332703356517
+woman.JPEG.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/woman.JPEG.3.png,woman,jpeg,2,3,0.3483184448843251,0.11210690643444483
+woman.JPEG.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/woman.JPEG.4.png,woman,jpeg,2,4,0.621443009464117,0.1376206901930728
+woman.JPEG.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg/woman.JPEG.5.png,woman,jpeg,2,5,0.782590489035621,0.049639891137088575
+woman.jpeg2000.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.1.png,woman,jpeg 2000,3,1,0.04202278301378692,0.01528961470803874
+woman.jpeg2000.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.2.png,woman,jpeg 2000,3,2,0.12153724933200068,0.03912152225485683
+woman.jpeg2000.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.3.png,woman,jpeg 2000,3,3,0.4034443385229045,0.1510811002104536
+woman.jpeg2000.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.4.png,woman,jpeg 2000,3,4,0.6410802369255747,0.11324946435901936
+woman.jpeg2000.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.5.png,woman,jpeg 2000,3,5,0.896613533817217,0.0
+woman.fnoise.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/woman.fnoise.1.png,woman,fnoise,4,1,0.09870562601466762,0.14408154401565942
+woman.fnoise.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/woman.fnoise.2.png,woman,fnoise,4,2,0.2623878164527734,0.1204311935776633
+woman.fnoise.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/woman.fnoise.3.png,woman,fnoise,4,3,0.49033947312683135,0.16345169156352096
+woman.fnoise.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/woman.fnoise.4.png,woman,fnoise,4,4,0.638011431407018,0.14198962907565893
+woman.fnoise.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/fnoise/woman.fnoise.5.png,woman,fnoise,4,5,0.7419198806440096,0.11764045961086136
+woman.BLUR.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/woman.BLUR.1.png,woman,blur,5,1,0.08643972722382232,0.075481164892194
+woman.BLUR.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/woman.BLUR.2.png,woman,blur,5,2,0.19805297524302992,0.06419571770561916
+woman.BLUR.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/woman.BLUR.3.png,woman,blur,5,3,0.41991805553118816,0.15372309864315292
+woman.BLUR.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/woman.BLUR.4.png,woman,blur,5,4,0.6163104400642191,0.09750606599897052
+woman.BLUR.5.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/blur/woman.BLUR.5.png,woman,blur,5,5,0.8339201364401237,0.0234880515376884
+woman.contrast.1.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/woman.contrast.1.png,woman,contrast,6,1,0.0683545728540736,0.0989103410217394
+woman.contrast.2.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/woman.contrast.2.png,woman,contrast,6,2,0.1727801373216243,0.09094805167135933
+woman.contrast.3.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/woman.contrast.3.png,woman,contrast,6,3,0.4093416922203528,0.18815586044752725
+woman.contrast.4.png,/kaggle/working/MDFS/data/CSIQ/dst_imgs/contrast/woman.contrast.4.png,woman,contrast,6,4,0.4685564551344059,0.2256516534224604

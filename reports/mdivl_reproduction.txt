@@ -1,0 +1,52 @@
+
+MDFS MDIVL REPRODUCTION
+=======================
+
+Dataset:
+MDIVL
+
+Images evaluated:
+750
+
+Reference images:
+10
+
+Hardware:
+2 x Tesla T4
+
+Score orientation:
+Raw MDFS higher = worse quality
+MDIVL subjective score higher = better quality
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.789000
+Ours:  0.787468
+Diff: -0.001532
+
+KROCC
+Paper: 0.591100
+Ours:  0.588678
+Diff: -0.002422
+
+PLCC
+Paper: 0.795300
+Ours:  0.795339
+Diff: +0.000039
+
+RMSE
+Paper: 14.477900
+Ours:  14.476242
+Diff: -0.001658
+
+Validation:
+Rows: 750
+Unique images: 750
+All scores finite: True
+Dual-GPU evaluation: True
+
+Dual-GPU split:
+GPU 0: 375
+GPU 1: 375

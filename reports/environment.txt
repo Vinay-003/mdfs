@@ -1,0 +1,27 @@
+
+MDFS REPRODUCTION ENVIRONMENT
+=============================
+
+OS:
+Linux-6.12.90+-x86_64-with-glibc2.35
+
+Python:
+3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]
+
+PyTorch:
+2.10.0+cu128
+
+TorchVision:
+0.25.0+cu128
+
+CUDA available:
+True
+
+CUDA runtime:
+12.8
+
+GPUs:
+['Tesla T4', 'Tesla T4']
+
+Official MDFS commit:
+5049ffb96cde7a26f02b196ac1abc5dcbce9e091

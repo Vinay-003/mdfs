@@ -1,0 +1,88 @@
+<div align="center">
+  <h1>Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics</h1>
+</div>
+
+<h4 align="center"> 
+
+[Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://scholar.google.com/citations?user=A7u-ZowAAAAJ&hl=en)<sup>3</sup>, [Wenhan Yang](https://scholar.google.com/citations?user=S8nAnakAAAAJ&hl=en)<sup>4</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=en)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>2</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>City University of Hong Kong, <sup>3</sup>Zhejiang University, <sup>4</sup>Peng Cheng Laboratory
+
+IEEE Transactions on Multimedia (TMM), 2024
+</h4>
+
+
+<!-- # Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics
+
+#### IEEE Transactions on Multimedia (T-MM)
+
+[Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://github.com/dingkeyan93)<sup>3</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>4</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>2</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>City University of Hong Kong, <sup>3</sup>Zhejiang University, <sup>4</sup>Peng Cheng Laboratory -->
+
+This repository provides the official PyTorch implementation for the paper “Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics,” IEEE Transactions on Multimedia (TMM), vol. 26, pp. 10211-10224, May 2024. [Paper-official](https://ieeexplore.ieee.org/document/10539337) | [Paper-arXiv](https://www.arxiv.org/abs/2405.18790)
+
+
+![Teaser](./imgs/MDFS_framework.png)
+
+## About MDFS
+Deep learning-based methods have significantly influenced the blind image quality assessment (BIQA) field, however, these methods often require training using large amounts of human rating data. In contrast, traditional knowledge-based methods are cost-effective for training but face challenges in effectively extracting features aligned with human visual perception. To bridge these gaps, we propose integrating deep features from pre-trained visual models with a statistical analysis model into a Multi-scale Deep Feature Statistics (MDFS) model for achieving opinion-unaware BIQA (OU-BIQA), thereby eliminating the reliance on human rating data and significantly improving training efficiency. Specifically, we extract patch-wise multi-scale features from pre-trained vision models, which are subsequently fitted into a multivariate Gaussian (MVG) model. The final quality score is determined by quantifying the distance between the MVG model derived from the test image and the benchmark MVG model derived from the high-quality image set. A comprehensive series of experiments conducted on various datasets show that our proposed model exhibits superior consistency with human visual perception compared to state-of-the-art BIQA models. Furthermore, it shows improved generalizability across diverse target-specific BIQA tasks. </br>
+
+
+<!-- ### Framework
+<!-- ![image-20240524](./imgs/MDFS_framework.png) -->
+<!--<div align=center><img src="./imgs/MDFS_framework.png" width = "100%" height = "100%" /></div> -->
+
+
+### Experimental Results
+<div align=center><img src="./imgs/performance.png" width = "100%" height = "100%" /></div>
+<!-- <div align=center><img src="./imgs/performance.png" width = "800" /></div> -->
+
+## Quick Start
+### Requirements:
+
+- Python>=3.6
+- Pytorch>=1.0
+
+
+### Train:
+- Download the dataset and put it in the `data` folder. The training data can be downloaded from [here](https://drive.google.com/file/d/1pNTjX5zdwdEzz8yAzTMcx5cvGF_v2k0R/view?usp=sharing). Then run the following command:
+
+```python
+python train.py
+```
+
+
+### Test:
+
+- Download the pre-trained model from [here](https://drive.google.com/file/d/1HQq5l9kwhCPByY_6sHPqPveNcBY6-1O6/view?usp=sharing) and put it in the same folder as the `test.py` file. Then run the following command:
+
+```python
+python test.py
+```
+
+
+## Citation
+
+If you find our work useful, please cite it as
+
+```
+@article{ni2024opinion,
+  title={Opinion-unaware blind image quality assessment using multi-scale deep feature statistics},
+  author={Ni, Zhangkai and Liu, Yue and Ding, Keyan and Yang, Wenhan and Wang, Hanli and Wang, Shiqi},
+  journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={10211--10224},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+
+## Contact
+Thanks for your attention! If you have any suggestion or question, feel free to leave a message here or contact Dr. Zhangkai Ni (eezkni@gmail.com).
+
+
+## License
+[MIT License](https://opensource.org/licenses/MIT)
+

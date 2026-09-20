@@ -1,0 +1,23 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,4 CPUs Intel(R) Xeon(R) CPU @ 2.00GHz (50653),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 608003061 bytes (580 MiB)
+
+Extracting archive: data/CID2013/CID2013.7z
+--
+Path = data/CID2013/CID2013.7z
+Type = 7z
+Physical Size = 608003061
+Headers Size = 6089
+Method = LZMA:24
+Solid = +
+Blocks = 1
+
+Everything is Ok
+
+Folders: 42
+Files: 475
+Size:       613638538
+Compressed: 608003061

@@ -1,0 +1,48 @@
+
+MDFS TID2013 BASELINE REPRODUCTION
+=================================
+
+Reference:
+Rebuilt from author-provided DIV500 images
+
+Images evaluated:
+3000
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.536300
+Ours:  0.536271
+Diff: -0.000029
+
+KROCC
+Paper: 0.382400
+Ours:  0.382358
+Diff: -0.000042
+
+PLCC
+Paper: 0.624200
+Ours:  0.626722
+Diff: +0.002522
+
+RMSE
+Paper: 0.968500
+Ours:  0.966007
+Diff: -0.002493
+
+Raw correlations:
+SROCC: -0.536271
+KROCC: -0.382358
+
+Runtime
+-------
+Mean/image: 0.0329691 s
+Total wall time: 99.56 s
+GPU: 1 x Tesla T4
+
+Validation
+----------
+Rows: 3000
+Unique images: 3000
+All scores finite: True

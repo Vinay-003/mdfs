@@ -1,0 +1,44 @@
+
+MDFS CID2013 REPRODUCTION
+=========================
+
+Dataset:
+CID2013
+
+Images evaluated:
+474
+
+Hardware:
+2 x Tesla T4
+
+MOS:
+Realigned MOS
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.857100
+Ours:  0.857070
+Diff: -0.000030
+
+KROCC
+Paper: 0.670600
+Ours:  0.670565
+Diff: -0.000035
+
+PLCC
+Paper: 0.871700
+Ours:  0.871736
+Diff: +0.000036
+
+RMSE
+Paper: 11.093100
+Ours:  11.093217
+Diff: +0.000117
+
+Validation:
+Rows: 474
+Unique images: 474
+All scores finite: True
+Dual-GPU evaluation: True

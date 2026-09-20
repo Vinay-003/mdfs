@@ -1,0 +1,53 @@
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+MDFS device: cuda
+GPU: Tesla T4
+Loading EfficientNet-B7...
+Loading reference features...
+Reference tensor: (295095, 544)
+Computing reference mean...
+Computing reference covariance...
+MDFS scorer ready.
+Already completed: 0
+Total to evaluate: 3000
+[100/3000] i01_20_5.bmp | MDFS=20.524082 | 0.0307s
+[200/3000] i02_16_5.bmp | MDFS=21.143578 | 0.0325s
+[300/3000] i03_12_5.bmp | MDFS=18.845053 | 0.0324s
+[400/3000] i04_08_5.bmp | MDFS=31.859079 | 0.0329s
+[500/3000] i05_04_5.bmp | MDFS=22.414970 | 0.0331s
+[600/3000] i05_24_5.bmp | MDFS=27.052532 | 0.0341s
+[700/3000] i06_20_5.bmp | MDFS=18.834469 | 0.0334s
+[800/3000] i07_16_5.bmp | MDFS=18.188213 | 0.0332s
+[900/3000] i08_12_5.bmp | MDFS=18.399704 | 0.0332s
+[1000/3000] i09_08_5.bmp | MDFS=31.705681 | 0.0333s
+[1100/3000] i10_04_5.bmp | MDFS=24.736679 | 0.0340s
+[1200/3000] i10_24_5.bmp | MDFS=37.217384 | 0.0334s
+[1300/3000] i11_20_5.bmp | MDFS=19.037849 | 0.0329s
+[1400/3000] i12_16_5.bmp | MDFS=17.914955 | 0.0325s
+[1500/3000] i13_12_5.bmp | MDFS=18.778761 | 0.0331s
+[1600/3000] i14_08_5.bmp | MDFS=31.768589 | 0.0320s
+[1700/3000] i15_04_5.bmp | MDFS=24.908319 | 0.0326s
+[1800/3000] i15_24_5.bmp | MDFS=35.814045 | 0.0323s
+[1900/3000] i16_20_5.bmp | MDFS=18.098452 | 0.0327s
+[2000/3000] i17_16_5.bmp | MDFS=18.718092 | 0.0330s
+[2100/3000] i18_12_5.bmp | MDFS=18.018501 | 0.0330s
+[2200/3000] i19_08_5.bmp | MDFS=30.427170 | 0.0307s
+[2300/3000] i20_04_5.bmp | MDFS=24.971714 | 0.0323s
+[2400/3000] i20_24_5.bmp | MDFS=32.271248 | 0.0330s
+[2500/3000] i21_20_5.bmp | MDFS=19.118202 | 0.0322s
+[2600/3000] i22_16_5.bmp | MDFS=17.617550 | 0.0319s
+[2700/3000] i23_12_5.bmp | MDFS=19.412851 | 0.0331s
+[2800/3000] i24_08_5.bmp | MDFS=32.950840 | 0.0327s
+[2900/3000] i25_04_5.bmp | MDFS=24.139978 | 0.0323s
+[3000/3000] i25_24_5.bmp | MDFS=24.113667 | 0.0323s
+
+==============================
+FULL TID2013 EVALUATION COMPLETE
+==============================
+Rows: 3000
+Unique filenames: 3000
+All scores finite: True
+Mean runtime/image: 0.03296905632533734
+Total wall time: 99.56161794699983

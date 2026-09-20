@@ -1,0 +1,63 @@
+
+MDFS KADID-10K REPRODUCTION
+===========================
+
+Reference:
+Rebuilt from author-provided DIV500 images
+
+Dataset:
+KADID-10K
+
+Images evaluated:
+10125
+
+Hardware:
+2 x Tesla T4
+
+Score orientation:
+Raw MDFS higher = worse quality
+KADID DMOS higher = better visual quality
+
+Therefore:
+Raw SROCC = -0.598352
+Raw KROCC = -0.423838
+
+Paper-comparable rank correlations use the opposite orientation.
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.598300
+Ours:  0.598352
+Diff: +0.000052
+
+KROCC
+Paper: 0.423800
+Ours:  0.423838
+Diff: +0.000038
+
+PLCC
+Paper: 0.593900
+Ours:  0.625569
+Diff: +0.031669
+
+RMSE
+Paper: 0.871000
+Ours:  0.844631
+Diff: -0.026369
+
+Validation
+----------
+Rows: 10125
+Unique images: 10125
+All scores finite: True
+Dual-GPU evaluation: True
+
+Dual-GPU split
+--------------
+GPU 0: 5063 images
+GPU 1: 5062 images
+
+GPU 0 wall time: ~193.56 s
+GPU 1 wall time: ~192.37 s

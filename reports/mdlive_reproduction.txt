@@ -1,0 +1,53 @@
+
+MDFS MDLIVE REPRODUCTION
+========================
+
+Dataset:
+MDLIVE / LIVE Multiply Distorted
+
+Images evaluated:
+450
+
+Reference images:
+15
+
+Hardware:
+2 x Tesla T4
+
+Score orientation:
+Raw MDFS higher = worse quality
+MDLIVE subjective score higher = worse quality
+Therefore raw correlations are directly paper-comparable.
+
+Paper vs Reproduction
+---------------------
+
+SROCC
+Paper: 0.757900
+Ours:  0.757856
+Diff: -0.000044
+
+KROCC
+Paper: 0.562300
+Ours:  0.562316
+Diff: +0.000016
+
+PLCC
+Paper: 0.822600
+Ours:  0.822873
+Diff: +0.000273
+
+RMSE
+Paper: 10.753400
+Ours:  10.746272
+Diff: -0.007128
+
+Validation:
+Rows: 450
+Unique images: 450
+All scores finite: True
+Dual-GPU evaluation: True
+
+Dual-GPU split:
+GPU 0: 225
+GPU 1: 225

@@ -1,0 +1,30 @@
+
+MDFS REBUILT REFERENCE ARTIFACT
+===============================
+
+Source:
+Author-provided div500 archive
+
+Reference image count:
+500
+
+Output:
+artifacts/MDFS_weights_rebuilt.pth
+
+File size:
+642128332 bytes
+
+Tensor shape:
+(295095, 544)
+
+Tensor dtype:
+torch.float32
+
+All finite:
+True
+
+Mean:
+-0.0033331301528960466
+
+Std:
+0.09581266343593597

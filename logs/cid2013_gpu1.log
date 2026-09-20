@@ -1,0 +1,34 @@
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+============================================================
+PHYSICAL GPU ASSIGNED: 1
+CUDA_VISIBLE_DEVICES: 1
+Visible CUDA devices: 1
+Visible GPU: Tesla T4
+============================================================
+Worker GPU 1: 237 assigned
+Worker GPU 1: 0 already completed
+MDFS device: cuda
+GPU: Tesla T4
+Loading EfficientNet-B7...
+Loading reference features...
+Reference tensor: (295095, 544)
+Computing reference mean...
+Computing reference covariance...
+MDFS scorer ready.
+[GPU 1] 50/237 IS_II_C02_D03.jpg MDFS=20.937948 0.3169s
+[GPU 1] 100/237 IS_III_C03_D12.jpg MDFS=23.105263 0.3217s
+[GPU 1] 150/237 IS_IV_C05_D08.jpg MDFS=20.624788 0.3347s
+[GPU 1] 200/237 IS_VI_C01_D10.jpg MDFS=21.532701 0.3272s
+[GPU 1] 237/237 IS_VI_C08_D14.jpg MDFS=22.929764 0.3403s
+
+============================================================
+GPU 1 WORKER COMPLETE
+============================================================
+Rows: 237
+Unique filenames: 237
+Mean inference time: 0.3268946467637051
+Worker wall time: 77.56226612000137
+All finite: True
